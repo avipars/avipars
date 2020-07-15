@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, I'm [Avi!](https://www.aviparshan.com) 👋.  
-#### I'm a IT Specialist and Android App Developer
+#### I'm a Android App Developer and System Analyst 
 
 <br/>
 <a href="https://twitter.com/aviinfinity">
@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 
 #### Projects
 
-[unitMeasure](https://www.unitmeasure.xyz)
-[AviParshan](https://www.aviparshan.com)
+[unitMeasure.xyz](https://www.unitmeasure.xyz)
+
+
+[AviParshan.com](https://www.aviparshan.com)
 
 
 <br /> 

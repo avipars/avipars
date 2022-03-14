@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br/>
 <a href="https://twitter.com/aviinfinity">
-  <img align="left" alt="Avi Parshan| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aviparshan/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -35,11 +35,14 @@ Here are some ideas to get you started:
 
 #### Projects
 
-[unitMeasure.xyz](https://www.unitmeasure.xyz)
+[unitMeasure.xyz](https://www.unitmeasure.xyz/?utm_source=ghb)
 
 
-[AviParshan.com](https://www.aviparshan.com)
+[AviParshan.com](https://www.aviparshan.com/?utm_source=ghb)
 
+[OsherAd](https://avipars.github.io/OsherAd/?utm_source=ghb)
+
+[Wurdle](https://avipars.github.io/WordleOSS/?utm_source=ghb)
 
 <br /> 
 

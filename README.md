@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm [Avi!](https://www.aviparshan.com) 👋.  
+### Hi there ,😄I'm [Avi!](https://www.aviparshan.com/??utm_source=ghb) 👋.  
 #### I'm a Android App Developer and System Analyst 
 
 <br/>

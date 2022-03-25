@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <br />
 
-# Blog posts
+# Updates and posts
 <!-- BLOG-POST-LIST:START -->
 - [Did you order a package in Israel and never got it? Now you can track it and make sure it comes!](http://sales.aviparshan.com/2022/02/how-to-track-your-packages-in-israel.html)
 - [How to see the class grade distribution for Machon Lev/Tal Students #Shorts](https://www.youtube.com/watch?v=8dkOiuHCPaE)

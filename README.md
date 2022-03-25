@@ -59,5 +59,10 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Did you order a package in Israel and never got it? Now you can track it and make sure it comes!](http://sales.aviparshan.com/2022/02/how-to-track-your-packages-in-israel.html)
+- [How to see the class grade distribution for Machon Lev/Tal Students #Shorts](https://www.youtube.com/watch?v=8dkOiuHCPaE)
+- [How to find and buy books &lpar;written in English&rpar; in Israel](https://aviparshan.medium.com/how-to-find-and-buy-books-written-in-english-in-israel-71e3739ce1da?source=rss-aa2514e75b06------2)
+- [How to find and buy books &lpar;written in English&rpar; in Israel](http://sales.aviparshan.com/2022/02/how-to-find-english-books-in-israel.html)
+- [Buy a ticket and get one FREE! Non-Stop Flights to Israel - with Elal  - טיסות של אלעל במבצע. 1+1 על נסיעה מנוי יורק לתל אביב!](http://sales.aviparshan.com/2022/02/buy-ticket-and-get-one-free-non-stop.html)
 <!-- BLOG-POST-LIST:END -->
 

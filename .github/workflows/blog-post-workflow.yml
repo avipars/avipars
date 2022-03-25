@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+      - name: Yadaa
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "http://sales.aviparshan.com.com/feeds/posts/default?alt=rss,aviparshan.medium.com/feed"
+          feed_list: "https://sales.aviparshan.com/feeds/posts/default?alt=rss,https://aviparshan.medium.com/feed"

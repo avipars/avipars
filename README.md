@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <br />
 
 
+
 #### Projects
 
 [unitMeasure.xyz](https://www.unitmeasure.xyz/?utm_source=ghb)
@@ -56,4 +57,7 @@ Here are some ideas to get you started:
 
 <br />
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 

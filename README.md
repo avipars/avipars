@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 - [How to get scholarships for College and University in Israel](http://sales.aviparshan.com/2022/04/how-to-get-scholarships-for-college-and.html)
 - [My new Dell laptop had a pixel burn while in warranty: this is what they sent me](https://aviparshan.medium.com/my-new-dell-laptop-had-a-pixel-burn-while-in-warranty-this-is-what-they-sent-me-99d84de59917?source=rss-aa2514e75b06------2)
 - [Did you order a package in Israel and never got it? Now you can track it and make sure it comes!](http://sales.aviparshan.com/2022/02/how-to-track-your-packages-in-israel.html)
-- [How to see the class grade distribution for Machon Lev/Tal Students #Shorts](https://www.youtube.com/watch?v=8dkOiuHCPaE)
+- [How to find and buy books &lpar;written in English&rpar; in Israel](https://aviparshan.medium.com/how-to-find-and-buy-books-written-in-english-in-israel-71e3739ce1da?source=rss-aa2514e75b06------2)
 <!-- BLOG-POST-LIST:END -->
 

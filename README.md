@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there ,😄I'm [Avi!](https://www.aviparshan.com/??utm_source=ghb) 👋.  
-#### I'm a Android App Developer and System Analyst 
+### Hi there ,😄I'm [Avi!](https://www.aviparshan.com/?utm_source=ghb) 👋.  
+#### I'm a Android App Developer and CS Student
 
 <br/>
 <a href="https://twitter.com/aviinfinity">

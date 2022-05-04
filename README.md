@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 [AviParshan.com](https://www.aviparshan.com/?utm_source=ghb)
 
-[OsherAd](https://avipars.github.io/OsherAd/?utm_source=ghb)
+[OsherAd](https://aviparshan.com/OsherAd/?utm_source=ghb)
 
 [Wurdle](https://avipars.github.io/WordleOSS/?utm_source=ghb)
 

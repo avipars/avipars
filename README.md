@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [My dive into Computer Architecture &lpar;Quick look at MIPS&rpar;](https://aviparshan.medium.com/my-dive-into-computer-architecture-quick-look-at-mips-80850dddd1a9?source=rss-aa2514e75b06------2)
 - [Why is my order getting consolidated? Will I need to pay VAT on it? Your questions are answered here!](http://sales.aviparshan.com/2022/06/why-is-my-order-getting-consolidated.html)
 - [How to find the IBAN and SWIFT number for Bank Hapoalim Quickly  איך למצוא את מספר ה-IBAN ו-SWIFT של בנק הפועלים במהירות](http://sales.aviparshan.com/2022/06/how-to-find-iban-and-swift-number-for.html)
 - [Fake Kosher Symbol - Keto Products being marked with an &lpar;OK&rpar; Circle K symbol - Not actually kosher nor certified by the OK](http://sales.aviparshan.com/2022/05/keto-products-being-marked-with-circle.html)
 - [Best watches for standardized testing &lpar;ACT/SAT/Psychometric Exam&rpar; in addition to the military and sports!](http://sales.aviparshan.com/2022/05/best-watches-for-standardized-testing.html)
-- [Moon Knight in Captain America: Civil War &lpar;fan made&rpar;](https://www.youtube.com/watch?v=ftIeDLEureY)
 <!-- BLOG-POST-LIST:END -->
 

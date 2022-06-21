@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [How to find kosher products on iHerb  איך מוצאים מוצרים כשרים באתר אייהרב](http://sales.aviparshan.com/2022/06/how-to-find-kosher-products-on-iherb.html)
 - [C LeetCode Problem and Solution — Check if an array contains duplicate elements](https://aviparshan.medium.com/c-leetcode-problem-and-solution-check-if-an-array-contains-duplicate-elements-d7b4936c3130?source=rss-aa2514e75b06------2)
 - [Prime day is coming from July 12th to 13th... here is what to know if you live in Israel!](http://sales.aviparshan.com/2022/06/prime-day-is-coming-from-july-12th-to.html)
 - [My dive into Computer Architecture &lpar;Quick look at MIPS&rpar;](https://medium.com/avi-parshan-studios/my-dive-into-computer-architecture-quick-look-at-mips-80850dddd1a9?source=rss-aa2514e75b06------2)
 - [Why is my order getting consolidated? Will I need to pay VAT on it? Your questions are answered here!](http://sales.aviparshan.com/2022/06/why-is-my-order-getting-consolidated.html)
-- [How to find the IBAN and SWIFT number for Bank Hapoalim Quickly  איך למצוא את מספר ה-IBAN ו-SWIFT של בנק הפועלים במהירות](http://sales.aviparshan.com/2022/06/how-to-find-iban-and-swift-number-for.html)
 <!-- BLOG-POST-LIST:END -->
 

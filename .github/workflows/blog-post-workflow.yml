@@ -14,4 +14,4 @@ jobs:
       - name: Yadaa
         uses: gautamkrishnar/blog-post-workflow@master
         with: #parsing rss feeds
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzocrbgFApPAGhq7PAw9Gw,https://aviparshan.medium.com/feed,https://sales.aviparshan.com/feeds/posts/default?alt=rss" 
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzocrbgFApPAGhq7PAw9Gw,https://aviparshan.medium.com/feed,https://sales.aviparshan.com/feeds/posts/default?alt=rss,https://tect.aviparshan.com/feeds/posts/default?alt=rss" 

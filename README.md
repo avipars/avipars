@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Filing FBAR as a US expat abroad — 2022 Guide to fill out your yearly report for free!](https://aviparshan.medium.com/filing-fbar-as-a-us-expat-abroad-2022-guide-to-fill-out-your-yearly-report-for-free-8dd35ed3d78c?source=rss-aa2514e75b06------2)
 - [Filing FBAR as a US expat abroad - 2022 Guide to fill out your yearly report for free!](http://sales.aviparshan.com/2022/06/filing-fbar-as-us-expat-abroad-2022.html)
+- [Math required and resources for Computer Science 1st year students](http://tech.aviparshan.com/2022/06/math-required-for-computer-science-1st.html)
 - [How to find kosher products on iHerb  איך מוצאים מוצרים כשרים באתר אייהרב](http://sales.aviparshan.com/2022/06/how-to-find-kosher-products-on-iherb.html)
 - [C LeetCode Problem and Solution — Check if an array contains duplicate elements](https://aviparshan.medium.com/c-leetcode-problem-and-solution-check-if-an-array-contains-duplicate-elements-d7b4936c3130?source=rss-aa2514e75b06------2)
-- [C LeetCode Problem and Solution - Check if an array contains duplicate elements](http://tech.aviparshan.com/2022/06/c-leetcode-problem-and-solution-check.html)
 <!-- BLOG-POST-LIST:END -->
 

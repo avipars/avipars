@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [MIPS and the Little Endians - Tips and an FAQ to help ace your computer architecture class and have fun doing so!](http://tech.aviparshan.com/2022/07/mips-and-little-endians-tips-and-faq-to.html)
 - [ASCII Table for programmers](http://tech.aviparshan.com/2022/07/ascii-table-embed-useful-sheets.html)
 - [Video game codes for a crazy low price &lpar;FIFA, Madden, and more!&rpar;](http://sales.aviparshan.com/2022/07/video-game-codes-for-crazy-low-price.html)
 - [Filing FBAR as a US expat abroad — 2022 Guide to fill out your yearly report for free!](https://aviparshan.medium.com/filing-fbar-as-a-us-expat-abroad-2022-guide-to-fill-out-your-yearly-report-for-free-8dd35ed3d78c?source=rss-aa2514e75b06------2)
 - [Filing FBAR as a US expat abroad - 2022 Guide to fill out your yearly report for free!](http://sales.aviparshan.com/2022/06/filing-fbar-as-us-expat-abroad-2022.html)
-- [Math required and resources for Computer Science 1st year students](http://tech.aviparshan.com/2022/06/math-required-for-computer-science-1st.html)
 <!-- BLOG-POST-LIST:END -->
 

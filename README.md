@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [How to save money as a tourist or oleh &lpar;immigrant&rpar; in Israel](http://sales.aviparshan.com/2022/07/how-to-not-get-ripped-off-as-tourist-or.html)
 - [Computer Architecture Summary - Topics you need to know](http://tech.aviparshan.com/2022/07/computer-architecture-summary-topics.html)
 - [MIPS and the Little Endians - Tips and an FAQ to help ace your computer architecture class and have fun doing so!](http://tech.aviparshan.com/2022/07/mips-and-little-endians-tips-and-faq-to.html)
 - [ASCII Table for programmers](http://tech.aviparshan.com/2022/07/ascii-table-embed-useful-sheets.html)
 - [Video game codes for a crazy low price &lpar;FIFA, Madden, and more!&rpar;](http://sales.aviparshan.com/2022/07/video-game-codes-for-crazy-low-price.html)
-- [Filing FBAR as a US expat abroad — 2022 Guide to fill out your yearly report for free!](https://aviparshan.medium.com/filing-fbar-as-a-us-expat-abroad-2022-guide-to-fill-out-your-yearly-report-for-free-8dd35ed3d78c?source=rss-aa2514e75b06------2)
 <!-- BLOG-POST-LIST:END -->
 

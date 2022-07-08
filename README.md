@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there ,😄I'm [Avi!](https://www.aviparshan.com/?utm_source=ghb) 👋.  
-#### I'm a Android App Developer and CS Student
+#### I'm a CS Student
 
 <br/>
 <a href="https://twitter.com/aviinfinity">
@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 #### Projects
 
 [unitMeasure.xyz](https://www.unitmeasure.xyz/?utm_source=ghb)
-
 
 [AviParshan.com](https://www.aviparshan.com/?utm_source=ghb)
 

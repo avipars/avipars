@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
-- [מדריך לשנות שרת ולתקן שגיאות גישה לאתרים בDNS](http://tech.aviparshan.com/2022/07/dns.html)
+- [DNS מדריך לשנות שרת ולתקן שגיאות גישה לאתרים ב](https://aviparshan.medium.com/dns-%D7%9E%D7%93%D7%A8%D7%99%D7%9A-%D7%9C%D7%A9%D7%A0%D7%95%D7%AA-%D7%A9%D7%A8%D7%AA-%D7%95%D7%9C%D7%AA%D7%A7%D7%9F-%D7%A9%D7%92%D7%99%D7%90%D7%95%D7%AA-%D7%92%D7%99%D7%A9%D7%94-%D7%9C%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%91-8b4151d65edc?source=rss-aa2514e75b06------2)
+- [DNS מדריך לשנות שרת ולתקן שגיאות גישה לאתרים ב](http://tech.aviparshan.com/2022/07/dns.html)
 - [All the latest iHerb coupons and codes  קופונים חדשים של iHerb  2022](http://sales.aviparshan.com/2022/07/all-latest-iherb-coupons-and-codes.html)
 - [Tips for getting an appointment at the Israel Ministry of Interior for renewing passports and other services](http://sales.aviparshan.com/2022/07/tips-for-getting-appointment-at-israel.html)
 - [How to save money as a tourist or oleh &lpar;immigrant&rpar; in Israel](http://sales.aviparshan.com/2022/07/how-to-not-get-ripped-off-as-tourist-or.html)
-- [Computer Architecture Summary - Topics you need to know](http://tech.aviparshan.com/2022/07/computer-architecture-summary-topics.html)
 <!-- BLOG-POST-LIST:END -->
 

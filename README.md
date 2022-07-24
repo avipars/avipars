@@ -75,5 +75,6 @@ Here are some ideas to get you started:
 - [DNS מדריך לשנות שרת ולתקן שגיאות גישה לאתרים ב](http://tech.aviparshan.com/2022/07/dns.html)
 - [All the latest iHerb coupons and codes  קופונים חדשים של iHerb  2022](http://sales.aviparshan.com/2022/07/all-latest-iherb-coupons-and-codes.html)
 - [Tips for getting an appointment at the Israel Ministry of Interior for renewing passports and other services](http://sales.aviparshan.com/2022/07/tips-for-getting-appointment-at-israel.html)
+- [How to save money as a tourist or oleh &lpar;immigrant&rpar; in Israel](http://sales.aviparshan.com/2022/07/how-to-not-get-ripped-off-as-tourist-or.html)
 <!-- BLOG-POST-LIST:END -->
 

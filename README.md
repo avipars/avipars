@@ -15,23 +15,27 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there ,😄I'm [Avi!](https://www.aviparshan.com/?utm_source=ghb) 👋.  
-#### I'm a CS Student
+#### I'm a student in Israel studying computer science!
 <br/>
 
-📫 How to reach me:
+📫 How to find me:
 
-<a href="https://twitter.com/aviinfinity">
+<a href="https://twitter.com/aviinfinity"  target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/aviparshan/">
+<a href="https://www.linkedin.com/in/aviparshan/" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/aviparshan/">
+<a href="https://www.instagram.com/aviparshan/"  target="_blank">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://stackoverflow.com/users/4276951/a-p">
+<a href="https://stackoverflow.com/users/4276951/a-p"  target="_blank">
   <img align="left" alt="Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCYzocrbgFApPAGhq7PAw9Gw"  target="_blank">
+  <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br />
@@ -40,15 +44,17 @@ Here are some ideas to get you started:
 
 
 
-#### Projects
+#### Projects:
 
-[unitMeasure.xyz](https://www.unitmeasure.xyz/?utm_source=ghb)
+[CS Resources](https://cs.aviparshan.com/?utm_source=ghb)
+
+[unitMeasure App](https://www.unitmeasure.xyz/?utm_source=ghb)
 
 [AviParshan.com](https://www.aviparshan.com/?utm_source=ghb)
 
-[OsherAd](https://aviparshan.com/OsherAd/?utm_source=ghb)
+[OsherAd Page](https://aviparshan.com/OsherAd/?utm_source=ghb)
 
-[Wurdle](https://avipars.github.io/WordleOSS/?utm_source=ghb)
+[Wurdle Game](https://avipars.github.io/WordleOSS/?utm_source=ghb)
 
 <br /> 
 

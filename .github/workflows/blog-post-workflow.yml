@@ -16,4 +16,5 @@ jobs:
         with: #parsing rss feeds
           max_post_count: "6"
           user_agent: "gh-actions-profile"
+          remove_duplicates: true
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzocrbgFApPAGhq7PAw9Gw,https://aviparshan.medium.com/feed,https://sales.aviparshan.com/feeds/posts/default?alt=rss,https://tech.aviparshan.com/feeds/posts/default?alt=rss,https://www.youtube.com/feeds/videos.xml?channel_id=UCxSsckr_q-SfZ7lkoh2dVCQ,https://cs.aviparshan.com/atom.xml"

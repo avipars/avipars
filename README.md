@@ -9,15 +9,17 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 ### Hi there ,😄I'm [Avi!](https://www.aviparshan.com/?utm_source=ghb) 👋.  
 #### I'm a CS Student
-
 <br/>
+
+📫 How to reach me:
+
 <a href="https://twitter.com/aviinfinity">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -26,6 +28,10 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.instagram.com/aviparshan/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="https://stackoverflow.com/users/4276951/a-p">
+  <img align="left" alt="Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
 <br />

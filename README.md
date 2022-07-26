@@ -72,9 +72,9 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [How to take advantage of Template Classes and Functions in C++](https://medium.com/avi-parshan-studios/how-to-take-advantage-of-template-classes-and-functions-in-c-2a5b73a3d61b?source=rss-aa2514e75b06------2)
 - [What are Template Functions and Classes in C++ and how can I use them?](http://tech.aviparshan.com/2022/07/learn-c-and-oop-easily-template.html)
+- [What are Template Functions and Classes in C++ and how can I use them?](https://tech.aviparshan.com/2022/07/learn-c-and-oop-easily-template.html)
 - [SEO 101 for techies, how to get your site noticed and indexed by search engines! &lpar;Technical Guide&rpar;](http://tech.aviparshan.com/2022/07/seo-for-techies-how-to-get-your-site-to.html)
 - [Welcome to CS Resources!](https://cs.aviparshan.com/2022/07/22/test.html)
 - [DNS מדריך לשנות שרת ולתקן שגיאות גישה לאתרים ב](https://aviparshan.medium.com/dns-%D7%9E%D7%93%D7%A8%D7%99%D7%9A-%D7%9C%D7%A9%D7%A0%D7%95%D7%AA-%D7%A9%D7%A8%D7%AA-%D7%95%D7%9C%D7%AA%D7%A7%D7%9F-%D7%A9%D7%92%D7%99%D7%90%D7%95%D7%AA-%D7%92%D7%99%D7%A9%D7%94-%D7%9C%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%91-8b4151d65edc?source=rss-aa2514e75b06------2)
-- [DNS מדריך לשנות שרת ולתקן שגיאות גישה לאתרים ב](http://tech.aviparshan.com/2022/07/dns.html)
 <!-- BLOG-POST-LIST:END -->
 

@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [How to speed up YT Shorts, Prime , Netflix, Disney+ Videos in Chrome](https://www.youtube.com/watch?v=gNHm6iJWykM)
 - [Right to Repair Act for Home Appliances - Samsung RF060BEAESP Fridge](http://tech.aviparshan.com/2022/07/right-to-repair-act-for-home-appliances.html)
 - [How to take advantage of Template Classes and Functions in C++](https://medium.com/avi-parshan-studios/how-to-take-advantage-of-template-classes-and-functions-in-c-2a5b73a3d61b?source=rss-aa2514e75b06------2)
 - [What are Template Functions and Classes in C++ and how can I use them?](http://tech.aviparshan.com/2022/07/learn-c-and-oop-easily-template.html)
 - [What are Template Functions and Classes in C++ and how can I use them?](https://tech.aviparshan.com/2022/07/learn-c-and-oop-easily-template.html)
 - [SEO 101 for techies, how to get your site noticed and indexed by search engines! &lpar;Technical Guide&rpar;](http://tech.aviparshan.com/2022/07/seo-for-techies-how-to-get-your-site-to.html)
-- [Welcome to CS Resources!](https://cs.aviparshan.com/2022/07/22/test.html)
 <!-- BLOG-POST-LIST:END -->
 

@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Will Avigdor Lieberman change the VAT import rules for purchases from abroad &lpar;from $75 to $300&rpar;?](http://sales.aviparshan.com/2022/07/will-avigdor-lieberman-change-vat.html)
 - [How to speed up YT Shorts, Prime , Netflix, Disney+ Videos in Chrome](https://www.youtube.com/watch?v=gNHm6iJWykM)
-- [Right to Repair Act for Home Appliances - Samsung RF060BEAESP Fridge](http://tech.aviparshan.com/2022/07/right-to-repair-act-for-home-appliances.html)
+- [Right to Repair for Appliances - Samsung  Fridge](http://tech.aviparshan.com/2022/07/right-to-repair-act-for-home-appliances.html)
 - [How to take advantage of Template Classes and Functions in C++](https://medium.com/avi-parshan-studios/how-to-take-advantage-of-template-classes-and-functions-in-c-2a5b73a3d61b?source=rss-aa2514e75b06------2)
 - [What are Template Functions and Classes in C++ and how can I use them?](http://tech.aviparshan.com/2022/07/learn-c-and-oop-easily-template.html)
 - [What are Template Functions and Classes in C++ and how can I use them?](https://tech.aviparshan.com/2022/07/learn-c-and-oop-easily-template.html)

@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [How to factory reset a kindle paperwhite](https://www.youtube.com/watch?v=oBfeLWBs84g)
 - [VSCode Tip: How to convert phone numbers to “tel:” links with one go!](https://medium.com/avi-parshan-studios/vscode-tip-how-to-convert-phone-numbers-to-tel-links-with-one-go-40463daa19dd?source=rss-aa2514e75b06------2)
 - [Sunfrost informed the public that they found a mouse in their frozen green beans   סנפרוסט מבקשת לעדכן את ציבור הצרכנים כי עקב הימצאות גוף זר &lpar;עכבר&rpar; שהתגלה בשקית בודדת של שעועית ירוקה עדינה שלמה מוקפאת](http://sales.aviparshan.com/2022/08/sunfrost-informed-public-that-they.html)
 - [How to get Windows 10/11 HEVC and HEIF &lpar;High Efficiency Video/Image&rpar; extensions for free](https://cs.aviparshan.com/post/2022/08/02/windows-ext.html)
 - [Will Avigdor Lieberman change the VAT import rules for purchases from abroad &lpar;from $75 to $300&rpar;?](http://sales.aviparshan.com/2022/07/will-avigdor-lieberman-change-vat.html)
 - [How to speed up YT Shorts, Prime , Netflix, Disney+ Videos in Chrome](https://www.youtube.com/watch?v=gNHm6iJWykM)
-- [Right to Repair for Appliances - Samsung  Fridge](http://tech.aviparshan.com/2022/07/right-to-repair-act-for-home-appliances.html)
 <!-- BLOG-POST-LIST:END -->
 

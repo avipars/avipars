@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [How to pay for public transit in Israel in 2022](http://sales.aviparshan.com/2022/08/how-to-pay-for-public-transit-in-israel.html)
 - [How to change your DNS Server to Cloudflare and Google’s and more tips and tricks for windows users!](https://aviparshan.medium.com/how-to-change-your-dns-server-to-cloudflare-and-googles-and-more-tips-and-tricks-for-windows-users-f1bba167f9c5?source=rss-aa2514e75b06------2)
 - [How to change your DNS Server to Cloudflare and Google&#39;s and more tips and tricks for windows users!](http://tech.aviparshan.com/2022/08/how-to-change-your-dns-server-in-israel.html)
 - [How to change your DNS Server in Israel to Cloudflare and Google&#39;s and more tips and tricks!](https://tech.aviparshan.com/2022/08/how-to-change-your-dns-server-in-israel.html)
 - [Order to watch &quot;I am Groot&quot; episodes and how to stream the show!](http://sales.aviparshan.com/2022/08/order-to-watch-i-am-groot-episodes-and.html)
 - [How to factory reset a kindle paperwhite](https://www.youtube.com/watch?v=oBfeLWBs84g)
-- [VSCode Tip: How to convert phone numbers to “tel:” links with one go!](https://medium.com/avi-parshan-studios/vscode-tip-how-to-convert-phone-numbers-to-tel-links-with-one-go-40463daa19dd?source=rss-aa2514e75b06------2)
 <!-- BLOG-POST-LIST:END -->
 

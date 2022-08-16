@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Cool Chrome Bookmarklets &lpar;Wayback machine, recover passwords, etc&rpar;](https://cs.aviparshan.com/post/2022/08/16/chrome-js-shortcuts.html)
 - [How to pay for public transit in Israel in 2022](http://sales.aviparshan.com/2022/08/how-to-pay-for-public-transit-in-israel.html)
 - [How to change your DNS Server to Cloudflare and Google’s and more tips and tricks for windows users!](https://aviparshan.medium.com/how-to-change-your-dns-server-to-cloudflare-and-googles-and-more-tips-and-tricks-for-windows-users-f1bba167f9c5?source=rss-aa2514e75b06------2)
 - [How to change your DNS Server to Cloudflare and Google&#39;s and more tips and tricks for windows users!](http://tech.aviparshan.com/2022/08/how-to-change-your-dns-server-in-israel.html)
 - [How to change your DNS Server in Israel to Cloudflare and Google&#39;s and more tips and tricks!](https://tech.aviparshan.com/2022/08/how-to-change-your-dns-server-in-israel.html)
 - [Order to watch &quot;I am Groot&quot; episodes and how to stream the show!](http://sales.aviparshan.com/2022/08/order-to-watch-i-am-groot-episodes-and.html)
-- [How to factory reset a kindle paperwhite](https://www.youtube.com/watch?v=oBfeLWBs84g)
 <!-- BLOG-POST-LIST:END -->
 

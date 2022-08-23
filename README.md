@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [How to view a mobile version of a website on your desktop or laptop computer with Google Chrome](http://sales.aviparshan.com/2022/08/how-to-view-mobile-version-of-website.html)
 - [Ethics in Business Education &lpar;Business Ethics Presentation&rpar; by Avi Parshan](https://www.youtube.com/watch?v=Ma4rDfUSZSc)
 - [New Sunfrost recall - Found a snake, snail, and bird in their green beans](http://sales.aviparshan.com/2022/08/new-sunfrost-recall-found-snake-snail.html)
 - [Prediction: the tax reduction on fuel will be extended and the price will also drop significantly next month](http://sales.aviparshan.com/2022/08/prediction-tax-reduction-on-fuel-will.html)
 - [Cool Chrome Bookmarklets &lpar;Wayback machine, recover passwords, etc&rpar;](https://aviparshan.medium.com/cool-chrome-bookmarklets-wayback-machine-recover-passwords-etc-a241c0a19b93?source=rss-aa2514e75b06------2)
 - [Cool Chrome Bookmarklets &lpar;Wayback machine, recover passwords, etc&rpar;](https://cs.aviparshan.com/post/2022/08/16/chrome-js-shortcuts.html)
-- [How to pay for public transit in Israel in 2022](http://sales.aviparshan.com/2022/08/how-to-pay-for-public-transit-in-israel.html)
 <!-- BLOG-POST-LIST:END -->
 

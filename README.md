@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [New Sunfrost recall - Found a snake, snail, and bird in their green beans](http://sales.aviparshan.com/2022/08/new-sunfrost-recall-found-snake-snail.html)
 - [Prediction: the tax reduction on fuel will be extended and the price will also drop significantly next month](http://sales.aviparshan.com/2022/08/prediction-tax-reduction-on-fuel-will.html)
 - [Cool Chrome Bookmarklets &lpar;Wayback machine, recover passwords, etc&rpar;](https://aviparshan.medium.com/cool-chrome-bookmarklets-wayback-machine-recover-passwords-etc-a241c0a19b93?source=rss-aa2514e75b06------2)
 - [Cool Chrome Bookmarklets &lpar;Wayback machine, recover passwords, etc&rpar;](https://cs.aviparshan.com/post/2022/08/16/chrome-js-shortcuts.html)
 - [How to pay for public transit in Israel in 2022](http://sales.aviparshan.com/2022/08/how-to-pay-for-public-transit-in-israel.html)
 - [How to change your DNS Server to Cloudflare and Google’s and more tips and tricks for windows users!](https://aviparshan.medium.com/how-to-change-your-dns-server-to-cloudflare-and-googles-and-more-tips-and-tricks-for-windows-users-f1bba167f9c5?source=rss-aa2514e75b06------2)
-- [How to change your DNS Server to Cloudflare and Google&#39;s and more tips and tricks for windows users!](http://tech.aviparshan.com/2022/08/how-to-change-your-dns-server-in-israel.html)
 <!-- BLOG-POST-LIST:END -->
 

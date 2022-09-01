@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [How to view a mobile version of a website on your desktop or laptop computer with Google Chrome](http://sales.aviparshan.com/2022/08/how-to-view-mobile-version-of-website.html)
 - [Ethics in Business Education &lpar;Business Ethics Presentation&rpar; by Avi Parshan](https://www.youtube.com/watch?v=Ma4rDfUSZSc)
-- [How to Factory Reset an Amazon Kindle Paperwhite](https://www.youtube.com/watch?v=oBfeLWBs84g)
-- [How to speed up YT Shorts, Prime , Netflix, Disney+ Videos in Chrome](https://www.youtube.com/watch?v=gNHm6iJWykM)
-- [Moon Knight in Captain America: Civil War &lpar;fan made&rpar;](https://www.youtube.com/watch?v=ftIeDLEureY)
-- [How to book a slot at the US Embassy #Shorts](https://www.youtube.com/watch?v=GwhaHXDwQ7E)
-- [Book of Boba - Post credit scene ... episode 7 #Shorts](https://www.youtube.com/watch?v=DbzrxLiEgx8)
+- [New Sunfrost recall - Found a snake, snail, and bird in their green beans](http://sales.aviparshan.com/2022/08/new-sunfrost-recall-found-snake-snail.html)
+- [Prediction: the tax reduction on fuel will be extended and the price will also drop significantly next month](http://sales.aviparshan.com/2022/08/prediction-tax-reduction-on-fuel-will.html)
+- [Cool Chrome Bookmarklets &lpar;Wayback machine, recover passwords, etc&rpar;](https://aviparshan.medium.com/cool-chrome-bookmarklets-wayback-machine-recover-passwords-etc-a241c0a19b93?source=rss-aa2514e75b06------2)
+- [Cool Chrome Bookmarklets &lpar;Wayback machine, recover passwords, etc&rpar;](https://cs.aviparshan.com/post/2022/08/16/chrome-js-shortcuts.html)
 <!-- BLOG-POST-LIST:END -->
 

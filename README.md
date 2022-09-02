@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [אמזון - אנחנו צריכים אותו ! Amazon We want it #shorts](https://www.youtube.com/watch?v=TyEriJtZfcY)
 - [Dog cleans up poop after self](https://www.youtube.com/watch?v=m0zjYjmp5QA)
 - [ENERGIZER products on major discount, clip the coupon for up to 50% off!!](http://sales.aviparshan.com/2022/09/energizer-products-on-major-discount.html)
 - [How to view a mobile version of a website on your desktop or laptop computer with Google Chrome](http://sales.aviparshan.com/2022/08/how-to-view-mobile-version-of-website.html)
 - [Ethics in Business Education &lpar;Business Ethics Presentation&rpar; by Avi Parshan](https://www.youtube.com/watch?v=Ma4rDfUSZSc)
 - [New Sunfrost recall - Found a snake, snail, and bird in their green beans](http://sales.aviparshan.com/2022/08/new-sunfrost-recall-found-snake-snail.html)
-- [Prediction: the tax reduction on fuel will be extended and the price will also drop significantly next month](http://sales.aviparshan.com/2022/08/prediction-tax-reduction-on-fuel-will.html)
 <!-- BLOG-POST-LIST:END -->
 

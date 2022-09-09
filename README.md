@@ -75,6 +75,6 @@ Here are some ideas to get you started:
 - [Dog cleans up poop after self](https://www.youtube.com/watch?v=m0zjYjmp5QA)
 - [ENERGIZER products on major discount, clip the coupon for up to 50% off!!](http://sales.aviparshan.com/2022/09/energizer-products-on-major-discount.html)
 - [How to view a mobile version of a website on your desktop or laptop computer with Google Chrome](http://sales.aviparshan.com/2022/08/how-to-view-mobile-version-of-website.html)
-- [Ethics in Business Education &lpar;Business Ethics Presentation&rpar; by Avi Parshan](https://www.youtube.com/watch?v=Ma4rDfUSZSc)
+- [Ethics in Business Education &lpar;Business Ethics Presentation&rpar;](https://www.youtube.com/watch?v=Ma4rDfUSZSc)
 <!-- BLOG-POST-LIST:END -->
 

@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Cracking linux user passwords with john the ripper](https://cs.aviparshan.com/post/2022/09/18/john-ripper-hash.html)
 - [Mastercardday will fall out on shabat, what will we do?  יום המאסטרקארד ייפול בשבת, מה נעשה?](http://sales.aviparshan.com/2022/09/mastercardday-will-fall-out-on-shabat.html)
 - [אמזון - אנחנו צריכים אותו ! Amazon We want it #shorts](https://www.youtube.com/watch?v=TyEriJtZfcY)
 - [Dog cleans up poop after self](https://www.youtube.com/watch?v=m0zjYjmp5QA)
 - [ENERGIZER products on major discount, clip the coupon for up to 50% off!!](http://sales.aviparshan.com/2022/09/energizer-products-on-major-discount.html)
 - [How to view a mobile version of a website on your desktop or laptop computer with Google Chrome](http://sales.aviparshan.com/2022/08/how-to-view-mobile-version-of-website.html)
-- [Ethics in Business Education &lpar;Business Ethics Presentation&rpar;](https://www.youtube.com/watch?v=Ma4rDfUSZSc)
 <!-- BLOG-POST-LIST:END -->
 

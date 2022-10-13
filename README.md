@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Shopping tips for IKEA in Israel and the world!](http://sales.aviparshan.com/2022/10/12-shopping-tips-for-ikea-in-israel-and.html)
 - [How does the aliexpress return policy work?](http://sales.aviparshan.com/2022/10/how-does-aliexpress-return-policy-work.html)
 - [Where to buy and sell second hand items in Israel](http://sales.aviparshan.com/2022/10/how-to-buy-and-sell-second-hand-items.html)
 - [How to extend the life of your Yirtzait 24 Hour Candle  #shorts](https://www.youtube.com/watch?v=yAqJqzKU98g)
 - [Stack smashing and buffer overflows with C/C++ Programs](https://cs.aviparshan.com/post/2022/09/20/buffer-overflow.html)
 - [Cracking linux user passwords with john the ripper](https://cs.aviparshan.com/post/2022/09/18/john-ripper-hash.html)
-- [Mastercarday will fall out on shabbat or chag, what will we do?  יום המאסטרקארד ייפול בשבת או חג, מה נעשה?](http://sales.aviparshan.com/2022/09/mastercardday-will-fall-out-on-shabat.html)
 <!-- BLOG-POST-LIST:END -->
 

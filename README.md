@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [The 747 Irony #Shorts](https://www.youtube.com/watch?v=5VbaH4Vxcws)
 - [איך להשתמש באתר! - אושר עד שעות](https://www.youtube.com/watch?v=xxKYVgQ2Km4)
 - [Happy Together - friends for life #shorts](https://www.youtube.com/watch?v=7eFVj7IpT8Q)
 - [Johnny English Teaching A Math Class #Shorts](https://www.youtube.com/watch?v=p4IkOHwhZfc)
 - [Math Trick with Mr. Bean #trick #shorts](https://www.youtube.com/watch?v=U_XQJ6kGVH4)
 - [12 Shopping tips for IKEA in Israel and the world!](http://sales.aviparshan.com/2022/10/12-shopping-tips-for-ikea-in-israel-and.html)
-- [How does the aliexpress return policy work?](http://sales.aviparshan.com/2022/10/how-does-aliexpress-return-policy-work.html)
 <!-- BLOG-POST-LIST:END -->
 

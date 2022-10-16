@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
-- [Think smarter not harder #shorts](https://www.youtube.com/watch?v=YyZuG41E7_I)
+- [Work smarter not harder #shorts](https://www.youtube.com/watch?v=YyZuG41E7_I)
 - [Travel Tricks #Shorts](https://www.youtube.com/watch?v=migwdvixvS4)
 - [The 747 Irony #Shorts](https://www.youtube.com/watch?v=5VbaH4Vxcws)
 - [איך להשתמש באתר! - אושר עד שעות](https://www.youtube.com/watch?v=xxKYVgQ2Km4)

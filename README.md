@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Moon and Solar Eclipse SFX clip #Shorts](https://www.youtube.com/watch?v=BH7thce2K68)
+- [Simulation of the solar eclipse over the arctic circle #Shorts](https://www.youtube.com/watch?v=OfrVIdmP2NY)
 - [font choice matters full clip #Shorts](https://www.youtube.com/watch?v=IeV9GMfC13g)
 - [Avoid getting rickrolled with this trick #Shorts](https://www.youtube.com/watch?v=VGRX97kTfjY)
 - [Get $15 credit for purchases over $30 with Prime when you upload a picture to Amazon Photos!](http://sales.aviparshan.com/2022/10/get-15-credit-for-purchases-over-30.html)
 - [Work smarter not harder #shorts](https://www.youtube.com/watch?v=YyZuG41E7_I)
-- [Travel Tricks #Shorts](https://www.youtube.com/watch?v=migwdvixvS4)
-- [Travel hack for overweight luggage #Shorts](https://www.youtube.com/watch?v=a30wf2JckhU)
 <!-- BLOG-POST-LIST:END -->
 

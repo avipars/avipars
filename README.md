@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Flipper zero airtag attack #Shorts](https://www.youtube.com/watch?v=pJI1wdrzEo0)
 - [How to get free webhosting and compute time](http://sales.aviparshan.com/2022/10/how-to-get-free-webhosting-and-compute.html)
 - [Moon and Solar Eclipse SFX clip #Shorts](https://www.youtube.com/watch?v=BH7thce2K68)
 - [Simulation of the solar eclipse over the arctic circle #Shorts](https://www.youtube.com/watch?v=OfrVIdmP2NY)
 - [font choice matters full clip #Shorts](https://www.youtube.com/watch?v=IeV9GMfC13g)
 - [Avoid getting rickrolled with this trick #Shorts](https://www.youtube.com/watch?v=VGRX97kTfjY)
-- [Get $15 credit for purchases over $30 with Prime when you upload a picture to Amazon Photos!](http://sales.aviparshan.com/2022/10/get-15-credit-for-purchases-over-30.html)
 <!-- BLOG-POST-LIST:END -->
 

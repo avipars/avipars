@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [using the flipper zero to shut off TVS](https://www.youtube.com/watch?v=Fc0gh_R6_0I)
 - [Flipper zero airtag attack #Shorts](https://www.youtube.com/watch?v=pJI1wdrzEo0)
 - [How to get free webhosting and compute time](http://sales.aviparshan.com/2022/10/how-to-get-free-webhosting-and-compute.html)
 - [Moon and Solar Eclipse SFX clip #Shorts](https://www.youtube.com/watch?v=BH7thce2K68)
 - [Simulation of the solar eclipse over the arctic circle #Shorts](https://www.youtube.com/watch?v=OfrVIdmP2NY)
 - [font choice matters full clip #Shorts](https://www.youtube.com/watch?v=IeV9GMfC13g)
-- [Avoid getting rickrolled with this trick #Shorts](https://www.youtube.com/watch?v=VGRX97kTfjY)
 <!-- BLOG-POST-LIST:END -->
 

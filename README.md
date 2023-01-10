@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [7/11 landed in Israel](https://www.youtube.com/watch?v=NTibikC8Pmo)
 - [how to change contrast settings on a casio fx 991es calculator #Shorts](https://www.youtube.com/watch?v=PrKxF8y2Neo)
 - [How to upload a document to Bituach Leumi&#39;s Website &lpar;ביטוח לאומי&rpar;](https://www.youtube.com/watch?v=sZl4XfdCuSU)
 - [How to avoid this popular paypal scam](https://medium.com/avi-parshan-studios/how-to-avoid-this-popular-paypal-scam-bfde71545a5d?source=rss-aa2514e75b06------2)
 - [Cool Lego Science Fair Entry #Shorts](https://www.youtube.com/watch?v=21SWWJaNW5o)
 - [using the flipper zero to shut off TVS](https://www.youtube.com/watch?v=Fc0gh_R6_0I)
-- [Flipper zero airtag attack #Shorts](https://www.youtube.com/watch?v=pJI1wdrzEo0)
 <!-- BLOG-POST-LIST:END -->
 

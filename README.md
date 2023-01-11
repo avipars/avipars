@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Paragliding over Ramat Bet Shemesh, Israel #Shorts](https://www.youtube.com/watch?v=BdWm6-ZVStQ)
 - [Blood donations in Israel - How the blood insurance system works](http://sales.aviparshan.com/2023/01/blood-donations-in-israel-how-blood.html)
 - [Donating blood in Israel — how the “Blood Insurance” system works](https://aviparshan.medium.com/donating-blood-in-israel-how-the-blood-insurance-system-works-a8fd43c0d76b?source=rss-aa2514e75b06------2)
 - [7/11 landed in Israel](https://www.youtube.com/watch?v=NTibikC8Pmo)
 - [how to change contrast settings on a casio fx 991es calculator #Shorts](https://www.youtube.com/watch?v=PrKxF8y2Neo)
 - [How to upload a document to Bituach Leumi&#39;s Website &lpar;ביטוח לאומי&rpar;](https://www.youtube.com/watch?v=sZl4XfdCuSU)
-- [How to avoid this popular paypal scam](https://medium.com/avi-parshan-studios/how-to-avoid-this-popular-paypal-scam-bfde71545a5d?source=rss-aa2514e75b06------2)
 <!-- BLOG-POST-LIST:END -->
 

@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Cere stopped using the force - STAR WARS Jedi Fallen Order](https://www.youtube.com/watch?v=8pAQLW2z-W8)
 - [7-11 Grand Opening in Tel Aviv 7-11 פתיחה חגיגית בתל אביב](https://www.youtube.com/watch?v=Q0h6oruVM_0)
 - [Paragliding over Ramat Bet Shemesh, Israel #Shorts](https://www.youtube.com/watch?v=BdWm6-ZVStQ)
 - [Blood donations in Israel - How the blood insurance system works](http://sales.aviparshan.com/2023/01/blood-donations-in-israel-how-blood.html)
 - [Donating blood in Israel — how the “Blood Insurance” system works](https://aviparshan.medium.com/donating-blood-in-israel-how-the-blood-insurance-system-works-a8fd43c0d76b?source=rss-aa2514e75b06------2)
 - [7/11 landed in Israel](https://www.youtube.com/watch?v=NTibikC8Pmo)
-- [how to change contrast settings on a casio fx 991es calculator #Shorts](https://www.youtube.com/watch?v=PrKxF8y2Neo)
 <!-- BLOG-POST-LIST:END -->
 

@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Supersol issued a recall for their Potato Bourekas product](http://sales.aviparshan.com/2023/01/supersol-issued-recall-for-their-potato.html)
 - [First time on Kashyyyk in STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=fyX1lMQjnh4)
 - [Why Cere stopped using the force - STAR WARS Jedi Fallen Order](https://www.youtube.com/watch?v=8pAQLW2z-W8)
 - [Controlling an AT-AT and meeting Saw Gerrera in STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=nokCo6XyaNA)
 - [7-11 Grand Opening in Tel Aviv 7-11 פתיחה חגיגית בתל אביב](https://www.youtube.com/watch?v=Q0h6oruVM_0)
 - [Paragliding over Ramat Bet Shemesh, Israel #Shorts](https://www.youtube.com/watch?v=BdWm6-ZVStQ)
-- [Blood donations in Israel - How the blood insurance system works](http://sales.aviparshan.com/2023/01/blood-donations-in-israel-how-blood.html)
 <!-- BLOG-POST-LIST:END -->
 

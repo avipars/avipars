@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [How to add a tracking number to 17Track and add a memo/note](https://www.youtube.com/watch?v=oYz1ZT7DBPQ)
 - [Controlling an AT-AT and meeting Saw Gerrera in STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=nokCo6XyaNA)
 - [Supersol issued a recall for their Potato Bourekas product](http://sales.aviparshan.com/2023/01/supersol-issued-recall-for-their-potato.html)
 - [First time on Kashyyyk in STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=fyX1lMQjnh4)
 - [Why Cere stopped using the force - STAR WARS Jedi Fallen Order](https://www.youtube.com/watch?v=8pAQLW2z-W8)
 - [7-11 Grand Opening in Tel Aviv 7-11 פתיחה חגיגית בתל אביב](https://www.youtube.com/watch?v=Q0h6oruVM_0)
-- [Paragliding over Ramat Bet Shemesh, Israel #Shorts](https://www.youtube.com/watch?v=BdWm6-ZVStQ)
 <!-- BLOG-POST-LIST:END -->
 

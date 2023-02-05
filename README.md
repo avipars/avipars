@@ -70,10 +70,10 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Completing STAR WARS Jedi  Fallen Order™ - How the game ends](https://www.youtube.com/watch?v=9jrxsUyQ394)
 - [Jaro Tapal as a sith STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=4o9_34YMYs0)
 - [galaxy s23 has just been released #samsung](https://www.youtube.com/watch?v=kQQ9L9LeKm4)
 - [Meeting the 9-th sister STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=_ORpUZU8GGA)
-- [Completing STAR WARS Jedi  Fallen Order™ - How the game ends](https://www.youtube.com/watch?v=9jrxsUyQ394)
 - [How to add a tracking number to 17Track and add a memo/note](https://www.youtube.com/watch?v=oYz1ZT7DBPQ)
 - [Controlling an AT-AT and meeting Saw Gerrera in STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=nokCo6XyaNA)
 <!-- BLOG-POST-LIST:END -->

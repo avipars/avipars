@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
-- [How to reduce a matrix to RREF on an fx991es casio calculator #Shorts](https://www.youtube.com/watch?v=QLfrkNvY2RY)
+- [How to solve and reduce a matrix to RREF on an fx991es Casio Calculator #Shorts](https://www.youtube.com/watch?v=QLfrkNvY2RY)
 - [Completing STAR WARS Jedi  Fallen Order™ - How the game ends](https://www.youtube.com/watch?v=9jrxsUyQ394)
 - [Jaro Tapal as a sith STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=4o9_34YMYs0)
 - [galaxy s23 has just been released #samsung](https://www.youtube.com/watch?v=kQQ9L9LeKm4)

@@ -72,9 +72,9 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Philips Sonicare 1100 Series Unboxing &lpar;New vs Old edition&rpar;](https://www.youtube.com/watch?v=D1l-I74ef24)
 - [Jaro Tapal as a sith STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=4o9_34YMYs0)
+- [Chandler gets blocked EA SPORTS™ NBA LIVE 14](https://www.youtube.com/watch?v=8su4C3F7wT8)
 - [samsung fridge bin replacement  #Shorts](https://www.youtube.com/watch?v=okHXpHI0SVU)
 - [How to solve and reduce a matrix to RREF on an fx991es Casio Calculator #Shorts](https://www.youtube.com/watch?v=QLfrkNvY2RY)
 - [Completing STAR WARS Jedi  Fallen Order™ - How the game ends](https://www.youtube.com/watch?v=9jrxsUyQ394)
-- [galaxy s23 has just been released #samsung](https://www.youtube.com/watch?v=kQQ9L9LeKm4)
 <!-- BLOG-POST-LIST:END -->
 

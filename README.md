@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Dunk Posterized Replay](https://www.youtube.com/watch?v=4Lt0sdFqL4A)
+- [Nightsister joins the crew - STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=q57lJy-HzMo)
 - [Google Lamda AI Demo via the AI Test Kitchen](https://www.youtube.com/watch?v=GUlo7Yo0GqQ)
 - [Felton on OKC in 2014 gets a quick corner 3 pointer in EA SPORTS™ NBA LIVE 14](https://www.youtube.com/watch?v=Ug41U5NoDI0)
 - [Getting the kyber crystal in STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=lBhLsytrssk)
 - [Philips Sonicare 1100 Series Unboxing &lpar;New vs Old edition&rpar;](https://www.youtube.com/watch?v=D1l-I74ef24)
-- [Jaro Tapal as a sith STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=4o9_34YMYs0)
-- [Chandler gets blocked EA SPORTS™ NBA LIVE 14](https://www.youtube.com/watch?v=8su4C3F7wT8)
 <!-- BLOG-POST-LIST:END -->
 

@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Andrew Wiggins  gets rejected EA SPORTS™ NBA LIVE 14](https://www.youtube.com/watch?v=0CMj6pgsK9s)
 - [Trick layup gets blocked EA SPORTS™ NBA LIVE 14](https://www.youtube.com/watch?v=3Cy6QGyX7aw)
 - [How to Force Pull - STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=-TJxm4HhMhk)
 - [Dunk Posterized Replay](https://www.youtube.com/watch?v=4Lt0sdFqL4A)
 - [Nightsister joins the crew - STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=q57lJy-HzMo)
 - [Google Lamda AI Demo via the AI Test Kitchen](https://www.youtube.com/watch?v=GUlo7Yo0GqQ)
-- [Felton on OKC in 2014 gets a quick corner 3 pointer in EA SPORTS™ NBA LIVE 14](https://www.youtube.com/watch?v=Ug41U5NoDI0)
 <!-- BLOG-POST-LIST:END -->
 

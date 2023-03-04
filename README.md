@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Entering Fortress Inquisitorius in Jedi  Fallen Order](https://www.youtube.com/watch?v=7SP5iD4bdzU)
 - [Nightsister joins the crew - STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=q57lJy-HzMo)
 - [using Xbox Game streaming to avoid the new Netflix password policy, will it work?  #Shorts](https://www.youtube.com/watch?v=rEz-jL1XHp0)
 - [Taron Malicos Introduction STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=TAaODTURFx4)
 - [Cal as an Inquisitor STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=Q_oSX26u9ng)
 - [Andrew Wiggins gets shot rejected EA SPORTS™ NBA LIVE](https://www.youtube.com/watch?v=0CMj6pgsK9s)
-- [Trick layup gets blocked EA SPORTS™ NBA LIVE 14](https://www.youtube.com/watch?v=3Cy6QGyX7aw)
 <!-- BLOG-POST-LIST:END -->
 

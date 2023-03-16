@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [TP-Link Archer T5E AC1200 Bluetooth Connection Issues](https://aviparshan.medium.com/tp-link-archer-t5e-ac1200-bluetooth-connection-issues-e87ceec974c7?source=rss-aa2514e75b06------2)
 - [How to unlock country restricted apps in the Samsung Galaxy Store](https://medium.com/avi-parshan-studios/how-to-unlock-country-restricted-apps-in-the-samsung-galaxy-store-b9b0ca9e1d6c?source=rss-aa2514e75b06------2)
 - [EA SPORTS™ NBA LIVE 14 Shot Blocked by Amar&#39;e Stoudemire](https://www.youtube.com/watch?v=hJC2e5eTdVQ)
 - [Entering Fortress Inquisitorius in Jedi  Fallen Order](https://www.youtube.com/watch?v=7SP5iD4bdzU)
 - [Nightsister joins the crew - STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=q57lJy-HzMo)
 - [using Xbox Game streaming to avoid the new Netflix password policy, will it work?  #Shorts](https://www.youtube.com/watch?v=rEz-jL1XHp0)
-- [Taron Malicos Introduction STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=TAaODTURFx4)
 <!-- BLOG-POST-LIST:END -->
 

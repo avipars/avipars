@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Vader kills 2nd sister and attacks Cal - STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=jFXoqkSR2t4)
 - [Merrin joins Cal to save the galaxy  - STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=TVZQ7XAdXpo)
 - [Saving the wookies STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=6thHSsCauSk)
 - [Shyyyo - Cal takes Flight in STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=9KCoVONQFl4)
 - [Using the Flipper Zero to mess with store intercoms! #Shorts](https://www.youtube.com/watch?v=cjn98me0ZZw)
 - [How to record phone calls on the Samsung Galaxy S23 #shorts](https://www.youtube.com/watch?v=Ry52eTdHKug)
-- [Chandler gets blocked EA SPORTS™ NBA LIVE 14](https://www.youtube.com/watch?v=8su4C3F7wT8)
 <!-- BLOG-POST-LIST:END -->
 

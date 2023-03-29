@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [The settings you should enable right now in Google Chrome](https://aviparshan.medium.com/the-settings-you-should-enable-right-now-in-google-chrome-608fcd9eded3?source=rss-aa2514e75b06------2)
 - [Shyyyo - Cal takes Flight in STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=9KCoVONQFl4)
 - [Vader kills 2nd sister and attacks Cal - STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=jFXoqkSR2t4)
 - [Merrin joins Cal to save the galaxy  - STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=TVZQ7XAdXpo)
 - [Saving the wookies STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=6thHSsCauSk)
 - [Using the Flipper Zero to mess with store intercoms! #Shorts](https://www.youtube.com/watch?v=cjn98me0ZZw)
-- [How to record phone calls on the Samsung Galaxy S23 #shorts](https://www.youtube.com/watch?v=Ry52eTdHKug)
 <!-- BLOG-POST-LIST:END -->
 

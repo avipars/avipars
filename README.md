@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Escape from Dathomir and Journey to Ilum in STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=ckXEaxNQPzY)
+- [Navigating Fortress Inquisitorius while underwater in STAR WARS](https://www.youtube.com/watch?v=vqQ6Bm_fiRk)
+- [Landing on Dathomir and getting ready to fight Merrin: STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=qm-wkVG8pY0)
+- [Merrin joins Cal to save the galaxy  - STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=TVZQ7XAdXpo)
+- [Vader kills 2nd sister and attacks Cal - STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=jFXoqkSR2t4)
 - [The settings you should enable right now in Google Chrome](https://aviparshan.medium.com/the-settings-you-should-enable-right-now-in-google-chrome-608fcd9eded3?source=rss-aa2514e75b06------2)
-- [TP-Link Archer T5E AC1200 Bluetooth Connection Issues](https://aviparshan.medium.com/tp-link-archer-t5e-ac1200-bluetooth-connection-issues-e87ceec974c7?source=rss-aa2514e75b06------2)
-- [How to unlock country restricted apps in the Samsung Galaxy Store](https://medium.com/avi-parshan-studios/how-to-unlock-country-restricted-apps-in-the-samsung-galaxy-store-b9b0ca9e1d6c?source=rss-aa2514e75b06------2)
-- [Supersol issued a recall for their Potato Bourekas product](http://sales.aviparshan.com/2023/01/supersol-issued-recall-for-their-potato.html)
-- [Blood donations in Israel - How the blood insurance system works](http://sales.aviparshan.com/2023/01/blood-donations-in-israel-how-blood.html)
-- [Donating blood in Israel — how the “Blood Insurance” system works](https://aviparshan.medium.com/donating-blood-in-israel-how-the-blood-insurance-system-works-a8fd43c0d76b?source=rss-aa2514e75b06------2)
 <!-- BLOG-POST-LIST:END -->
 

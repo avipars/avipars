@@ -70,10 +70,10 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Landing on Dathomir and getting ready to fight Merrin: STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=qm-wkVG8pY0)
 - [Mastercarday Passover 2023 Edition - New and updated promotions!](http://sales.aviparshan.com/2023/04/mastercarday-passover-2023-edition-new.html)
 - [Escape from Dathomir and Journey to Ilum in STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=ckXEaxNQPzY)
 - [Navigating Fortress Inquisitorius while underwater in STAR WARS](https://www.youtube.com/watch?v=vqQ6Bm_fiRk)
-- [Landing on Dathomir and getting ready to fight Merrin: STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=qm-wkVG8pY0)
 - [Merrin joins Cal to save the galaxy  - STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=TVZQ7XAdXpo)
 - [Vader kills 2nd sister and attacks Cal - STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=jFXoqkSR2t4)
 <!-- BLOG-POST-LIST:END -->

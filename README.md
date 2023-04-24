@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Escape from Dathomir and Journey to Ilum in STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=ckXEaxNQPzY)
 - [Battle with Trilla at Fortress Inquisitorius in STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=kEc_xEl4JRo)
 - [Tips and tricks to save time at the pharmacy in Israel](http://sales.aviparshan.com/2023/04/tips-and-tricks-to-save-time-at.html)
 - [How to save time at the pharmacy in Israel: Book a slot and see what&#39;s in stock #Shorts](https://www.youtube.com/watch?v=NdyPRf3ostw)
 - [Confronting the second sister in STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=-ra2scUaxME)
 - [How to use the Otterbox Defender Pro as a Kickstand #Shorts](https://www.youtube.com/watch?v=6Aq7Z8D_TXo)
-- [How to use the Kickstand and 360 Degree Rotation on your Otterbox Defender Case](https://www.youtube.com/watch?v=qBk6vR1VzUQ)
 <!-- BLOG-POST-LIST:END -->
 

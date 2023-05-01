@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Ball tipped but they recovered it! EA SPORTS™ NBA LIVE 14](https://www.youtube.com/watch?v=7OS02cvIeU4)
 - [Cal Kestis becomes a Jedi Knight -  STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=CyXS4A6DEb4)
 - [Controllr - Quick Settings Launcher for Galaxy Watch App Tutorial #Shorts](https://www.youtube.com/watch?v=C63YJ3Drsiw)
 - [Escape from Dathomir and Journey to Ilum in STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=ckXEaxNQPzY)
 - [Battle with Trilla at Fortress Inquisitorius in STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=kEc_xEl4JRo)
 - [Tips and tricks to save time at the pharmacy in Israel](http://sales.aviparshan.com/2023/04/tips-and-tricks-to-save-time-at.html)
-- [How to save time at the pharmacy in Israel: Book a slot and see what&#39;s in stock #Shorts](https://www.youtube.com/watch?v=NdyPRf3ostw)
 <!-- BLOG-POST-LIST:END -->
 

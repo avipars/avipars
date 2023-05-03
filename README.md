@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [How to eat a stroopwafel #Shorts](https://www.youtube.com/watch?v=Jz3egMT-w2Y)
 - [Ball tipped but they recovered it! EA SPORTS™ NBA LIVE 14](https://www.youtube.com/watch?v=7OS02cvIeU4)
 - [Cal Kestis becomes a Jedi Knight -  STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=CyXS4A6DEb4)
 - [Controllr - Quick Settings Launcher for Galaxy Watch App Tutorial #Shorts](https://www.youtube.com/watch?v=C63YJ3Drsiw)
 - [Escape from Dathomir and Journey to Ilum in STAR WARS Jedi  Fallen Order](https://www.youtube.com/watch?v=ckXEaxNQPzY)
 - [Battle with Trilla at Fortress Inquisitorius in STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=kEc_xEl4JRo)
-- [Tips and tricks to save time at the pharmacy in Israel](http://sales.aviparshan.com/2023/04/tips-and-tricks-to-save-time-at.html)
 <!-- BLOG-POST-LIST:END -->
 

@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Battle with Trilla at Fortress Inquisitorius in STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=kEc_xEl4JRo)
 - [Commandeering a star destroyer in STAR WARS™  Squadrons](https://www.youtube.com/watch?v=4rZ8jCKzkzE)
 - [STAR WARS™  Squadrons Intro Sequence](https://www.youtube.com/watch?v=bSn26qUZxhU)
 - [How to eat a stroopwafel the right way #Shorts](https://www.youtube.com/watch?v=Jz3egMT-w2Y)
 - [Ball tipped but they recovered it! EA SPORTS™ NBA LIVE 14](https://www.youtube.com/watch?v=7OS02cvIeU4)
 - [Cal Kestis becomes a Jedi Knight -  STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=CyXS4A6DEb4)
-- [Controllr - Quick Settings Launcher for Galaxy Watch App Tutorial #Shorts](https://www.youtube.com/watch?v=C63YJ3Drsiw)
 <!-- BLOG-POST-LIST:END -->
 

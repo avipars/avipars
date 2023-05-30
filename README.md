@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Meeting the Vanguard Team - STAR WARS™  Squadrons](https://www.youtube.com/watch?v=mSWezuWll1A)
 - [Aliexpress mouse can charge over micro USB](https://www.youtube.com/watch?v=SOQrJUuJt0Q)
 - [Aliexpress mouse - android bluetooth connection failure](https://www.youtube.com/watch?v=KvHo-k_6eJo)
 - [Aliexpress Bluetooth Wireless Mouse Review](https://www.youtube.com/watch?v=aOdkmHRJg9k)
 - [Deodorant Cap Lifehack #Shorts](https://www.youtube.com/watch?v=8huIplgR7S0)
 - [ISD Mission Briefing STAR WARS™  Squadrons](https://www.youtube.com/watch?v=3f-N_aG8LH4)
-- [Meeting the Vanguard Team - STAR WARS™  Squadrons](https://www.youtube.com/watch?v=mSWezuWll1A)
 <!-- BLOG-POST-LIST:END -->
 

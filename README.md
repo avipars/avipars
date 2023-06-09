@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastercarday for June &amp; July 2023 in Israel](http://sales.aviparshan.com/2023/06/mastercarday-for-june-july-2023-in.html)
+- [Mastercarday discounts for June &amp; July 2023 in Israel](http://sales.aviparshan.com/2023/06/mastercarday-for-june-july-2023-in.html)
 - [How to set your Fx-991es plus casio calculator to Radians or Degrees #Shorts](https://www.youtube.com/watch?v=5vGcBF6JLbs)
 - [The Secret Project Starhawk - in  STAR WARS Squadrons](https://www.youtube.com/watch?v=tGvyM1AIPzk)
 - [How to protect yourself against the Gigabyte BIOS App Center Vulnerability](https://www.youtube.com/watch?v=05zMJ4gDjlQ)

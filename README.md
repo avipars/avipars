@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Witness a mission in STAR WARS™  Squadrons](https://www.youtube.com/watch?v=jSDcAtavWOQ)
+- [How to set up JUnit JVM CLI arguments in IDEA](https://www.youtube.com/watch?v=8t7OX2NNgvM)
+- [How to set JVM arguments in IntelliJ IDEA](https://www.youtube.com/watch?v=P5tcvpNdMR0)
 - [ChatGPT, Sage, and Google Bard try to solve a calculus problem and proof &lpar;e^pi vs pi^e&rpar;](https://www.youtube.com/watch?v=EFKABqyR6w0)
 - [Mastercarday discounts for June &amp; July 2023 in Israel](http://sales.aviparshan.com/2023/06/mastercarday-for-june-july-2023-in.html)
 - [How to set your Fx-991es plus casio calculator to Radians or Degrees #Shorts](https://www.youtube.com/watch?v=5vGcBF6JLbs)
-- [The Secret Project Starhawk - in  STAR WARS Squadrons](https://www.youtube.com/watch?v=tGvyM1AIPzk)
-- [How to protect yourself against the Gigabyte BIOS App Center Vulnerability](https://www.youtube.com/watch?v=05zMJ4gDjlQ)
-- [ISD Mission Briefing STAR WARS™  Squadrons](https://www.youtube.com/watch?v=3f-N_aG8LH4)
 <!-- BLOG-POST-LIST:END -->
 

@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Witnessed a fire yesterday #Shorts](https://www.youtube.com/watch?v=so0ruUXJM7Q)
 - [Witness a mission in STAR WARS™  Squadrons](https://www.youtube.com/watch?v=jSDcAtavWOQ)
 - [How to set up JUnit JVM CLI arguments in IDEA](https://www.youtube.com/watch?v=8t7OX2NNgvM)
 - [How to set JVM arguments in IntelliJ IDEA](https://www.youtube.com/watch?v=P5tcvpNdMR0)
 - [ChatGPT, Sage, and Google Bard try to solve a calculus problem and proof &lpar;e^pi vs pi^e&rpar;](https://www.youtube.com/watch?v=EFKABqyR6w0)
 - [Mastercarday discounts for June &amp; July 2023 in Israel](http://sales.aviparshan.com/2023/06/mastercarday-for-june-july-2023-in.html)
-- [How to set your Fx-991es plus casio calculator to Radians or Degrees #Shorts](https://www.youtube.com/watch?v=5vGcBF6JLbs)
 <!-- BLOG-POST-LIST:END -->
 

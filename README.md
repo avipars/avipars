@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [How to factor a complicated polynomial in under 1 minute via the Casio fx991es #Shorts](https://www.youtube.com/watch?v=wlKYftopSVc)
+- [Factor a polynomial via the BIG X method and also via your Casio FX991es plus](https://www.youtube.com/watch?v=50g3gyL7Y3Y)
 - [Found a skrull hiding in Spider-man: no way home](https://www.youtube.com/watch?v=KTixXxnizxs)
 - [Witnessed a fire yesterday #Shorts](https://www.youtube.com/watch?v=so0ruUXJM7Q)
 - [Witness a mission in STAR WARS™  Squadrons](https://www.youtube.com/watch?v=jSDcAtavWOQ)
 - [How to set up JUnit JVM CLI arguments in IDEA](https://www.youtube.com/watch?v=8t7OX2NNgvM)
-- [How to set JVM arguments in IntelliJ IDEA](https://www.youtube.com/watch?v=P5tcvpNdMR0)
-- [ChatGPT, Sage, and Google Bard try to solve a calculus problem and proof &lpar;e^pi vs pi^e&rpar;](https://www.youtube.com/watch?v=EFKABqyR6w0)
 <!-- BLOG-POST-LIST:END -->
 

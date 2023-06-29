@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Over 90,000 Marvel Insider Reward Points as of 6/29/2023](http://sales.aviparshan.com/2023/06/marvel-insider-rewards-as-of-6292023.html)
 - [Witness a mission in STAR WARS™  Squadrons](https://www.youtube.com/watch?v=jSDcAtavWOQ)
 - [How to factor a complicated polynomial in under 1 minute via the Casio fx991es #Shorts](https://www.youtube.com/watch?v=wlKYftopSVc)
 - [Factor a polynomial via the BIG X method and also via your Casio FX991es plus](https://www.youtube.com/watch?v=50g3gyL7Y3Y)
 - [Found a skrull hiding in Spider-man: no way home](https://www.youtube.com/watch?v=KTixXxnizxs)
 - [Witnessed a fire yesterday #Shorts](https://www.youtube.com/watch?v=so0ruUXJM7Q)
-- [How to set up JUnit JVM CLI arguments in IDEA](https://www.youtube.com/watch?v=8t7OX2NNgvM)
 <!-- BLOG-POST-LIST:END -->
 

@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [STAR WARS Jedi  Survivor™ Intro Clip &lpar;on RTX 2070 SUPER&rpar;](https://www.youtube.com/watch?v=OGms-KR30ck)
 - [How to find inverse of a matrix on your Casio fx991es plus](https://www.youtube.com/watch?v=riICSKfaPUg)
 - [Finishing mission - Capturing Star Destroyer STAR WARS™  Squadrons](https://www.youtube.com/watch?v=00BTX9xR8oY)
 - [Over 90,000 Marvel Insider Reward Points as of 6/30/2023](http://sales.aviparshan.com/2023/06/marvel-insider-rewards-as-of-6292023.html)
 - [Witness a mission in STAR WARS™  Squadrons](https://www.youtube.com/watch?v=jSDcAtavWOQ)
 - [How to factor a complicated polynomial in under 1 minute via the Casio fx991es #Shorts](https://www.youtube.com/watch?v=wlKYftopSVc)
-- [Factor a polynomial via the BIG X method and also via your Casio FX991es plus](https://www.youtube.com/watch?v=50g3gyL7Y3Y)
 <!-- BLOG-POST-LIST:END -->
 

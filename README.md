@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Marvel Pull Quote for July 4th, 2023 &lpar;+500 Marvel Insider Points&rpar;](http://sales.aviparshan.com/2023/07/marvel-pull-quote-for-july-4th-2023-to.html)
 - [Factor a polynomial via the BIG X method and also via your Casio FX991es plus](https://www.youtube.com/watch?v=50g3gyL7Y3Y)
 - [Cal gets captured by Senator Sejan in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=hoT7dVRASDY)
 - [First cut-scene in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=5nnjQuthkZo)
 - [Full Intro Cinematic Sequence of STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=J-zAMjGf1HQ)
 - [How to find inverse of a matrix on your Casio fx991es plus](https://www.youtube.com/watch?v=riICSKfaPUg)
-- [Finishing mission - Capturing Star Destroyer STAR WARS™  Squadrons](https://www.youtube.com/watch?v=00BTX9xR8oY)
 <!-- BLOG-POST-LIST:END -->
 

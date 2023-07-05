@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [How to factor a complicated polynomial in under 1 minute via the Casio fx991es #Shorts](https://www.youtube.com/watch?v=wlKYftopSVc)
 - [Want to bank in english in Israel? We found which banks have interfaces in English!](http://sales.aviparshan.com/2023/07/want-to-bank-in-english-in-israel-we.html)
 - [First cut-scene in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=5nnjQuthkZo)
 - [IDEA and Git - have two or more authors on a commit](http://tech.aviparshan.com/2023/07/idea-and-git-have-two-or-more-authors.html)
 - [Marvel Pull Quote for July 4th, 2023 &lpar;+500 Marvel Insider Points&rpar;](http://sales.aviparshan.com/2023/07/marvel-pull-quote-for-july-4th-2023-to.html)
 - [Factor a polynomial via the BIG X method and also via your Casio FX991es plus](https://www.youtube.com/watch?v=50g3gyL7Y3Y)
-- [Cal gets captured by Senator Sejan in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=hoT7dVRASDY)
 <!-- BLOG-POST-LIST:END -->
 

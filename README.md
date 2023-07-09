@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [How to enable force dark mode on android devices and for WSA](https://www.youtube.com/watch?v=sq6k5eKXnPk)
+- [How to enable and open developer settings on Windows Subsystem for Android](https://www.youtube.com/watch?v=vHtyjz04Tb0)
 - [Cal gets captured by Senator Sejan in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=hoT7dVRASDY)
 - [Capturing Senator Sejan&#39;s Ship in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=JpNoJ--Aeic)
 - [How to factor a complicated polynomial in under 1 minute via the Casio fx991es #Shorts](https://www.youtube.com/watch?v=wlKYftopSVc)
 - [Want to bank in english in Israel? We found which banks have interfaces in English!](http://sales.aviparshan.com/2023/07/want-to-bank-in-english-in-israel-we.html)
-- [First cut-scene in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=5nnjQuthkZo)
-- [IDEA and Git - have two or more authors on a commit](http://tech.aviparshan.com/2023/07/idea-and-git-have-two-or-more-authors.html)
 <!-- BLOG-POST-LIST:END -->
 

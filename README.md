@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Meeting Bode in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=Zxdaa1Szo7Y)
 - [Making quick work of some stormtroopers in Jedi  Survivor](https://www.youtube.com/watch?v=fTWyz6wvskw)
 - [Get to the Rooftops playthrough  STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=WNVgcvC1YJ0)
 - [How to enable force dark mode on android devices and for WSA](https://www.youtube.com/watch?v=sq6k5eKXnPk)
 - [How to enable and open developer settings on Windows Subsystem for Android](https://www.youtube.com/watch?v=vHtyjz04Tb0)
 - [Cal gets captured by Senator Sejan in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=hoT7dVRASDY)
-- [Capturing Senator Sejan&#39;s Ship in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=JpNoJ--Aeic)
 <!-- BLOG-POST-LIST:END -->
 

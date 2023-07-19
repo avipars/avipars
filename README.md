@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Defending Refugee Convoy - STAR WARS™  Squadrons](https://www.youtube.com/watch?v=2CcD_xMIGrw)
 - [Trip to the Shattered moon STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=hFuCzkBdWt4)
 - [Meeting Bode in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=Zxdaa1Szo7Y)
 - [Making quick work of some stormtroopers in Jedi  Survivor](https://www.youtube.com/watch?v=fTWyz6wvskw)
 - [Get to the Rooftops playthrough  STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=WNVgcvC1YJ0)
 - [How to enable force dark mode on android devices and for WSA](https://www.youtube.com/watch?v=sq6k5eKXnPk)
-- [How to enable and open developer settings on Windows Subsystem for Android](https://www.youtube.com/watch?v=vHtyjz04Tb0)
 <!-- BLOG-POST-LIST:END -->
 

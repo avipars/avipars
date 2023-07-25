@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [STAR WARS Jedi  Survivor™ meeting ashe jave amd DD-EC making the music](https://www.youtube.com/watch?v=FNQvJvjP7uA)
 - [Bode Boss Fight Intro Sequence STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=6DthGspiKQQ)
 - [Final scene &lpar;Part 1&rpar; in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=jwiTepkbeYk)
 - [Getting app the app IDs for my watch active 2 with tizen and how to launch an app easily](http://tech.aviparshan.com/2023/07/getting-app-app-ids-for-my-watch-active.html)
 - [Defending Refugee Convoy - STAR WARS™  Squadrons](https://www.youtube.com/watch?v=2CcD_xMIGrw)
 - [Trip to the Shattered moon STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=hFuCzkBdWt4)
-- [Final scene &lpar;Part 2&rpar; STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=eCs1n9qOJyg)
 <!-- BLOG-POST-LIST:END -->
 

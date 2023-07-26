@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Crash landing on Koboh in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=mH6tB7y6o_o)
 - [Final scene &lpar;Part 2&rpar; STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=eCs1n9qOJyg)
 - [Stormtrooper bug in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=oi7vyolTyQI)
 - [STAR WARS Jedi  Survivor™ meeting ashe jave amd DD-EC making the music](https://www.youtube.com/watch?v=FNQvJvjP7uA)
 - [Bode Boss Fight Intro Sequence STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=6DthGspiKQQ)
 - [Final scene &lpar;Part 1&rpar; in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=jwiTepkbeYk)
-- [Getting app the app IDs for my watch active 2 with tizen and how to launch an app easily](http://tech.aviparshan.com/2023/07/getting-app-app-ids-for-my-watch-active.html)
 <!-- BLOG-POST-LIST:END -->
 

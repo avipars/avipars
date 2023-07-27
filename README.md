@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Attack of the Stormtroopers](https://www.youtube.com/watch?v=jAd6Jeczn_g)
 - [How to find complex roots and use complex numbers on the FX991es](https://www.youtube.com/watch?v=1FLhlIVxmYs)
 - [Bode Boss Fight Scene in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=YHqOke_e040)
 - [How to unlock the short beard for Cal in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=q5VzpK2xo_s)
 - [Crash landing on Koboh in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=mH6tB7y6o_o)
 - [Final scene &lpar;Part 2&rpar; STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=eCs1n9qOJyg)
-- [Stormtrooper bug in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=oi7vyolTyQI)
 <!-- BLOG-POST-LIST:END -->
 

@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Caij Vanda Intro - STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=YRFwTSgnYW4)
 - [Free the wookies - STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=Tv7cGLGnD6I)
 - [Bode Boss Fight Intro Sequence STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=6DthGspiKQQ)
 - [STAR WARS Jedi  Survivor™ meeting ashe jave amd DD-EC making the music](https://www.youtube.com/watch?v=FNQvJvjP7uA)
 - [Attack of the Stormtroopers](https://www.youtube.com/watch?v=jAd6Jeczn_g)
 - [How to find complex roots and use complex numbers on the FX991es](https://www.youtube.com/watch?v=1FLhlIVxmYs)
-- [Bode Boss Fight Scene in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=YHqOke_e040)
 <!-- BLOG-POST-LIST:END -->
 

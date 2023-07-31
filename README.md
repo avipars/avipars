@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Taron Malicos Boss Battle - Jedi Fallen Order](https://www.youtube.com/watch?v=d_Xl9RQJ-50)
 - [Meeting Toa in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=9aQqcZaQi7g)
 - [Crash landing on Koboh in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=mH6tB7y6o_o)
 - [Caij Vanda Intro - STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=YRFwTSgnYW4)
 - [Free the wookies - STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=Tv7cGLGnD6I)
 - [Bode Boss Fight Intro Sequence STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=6DthGspiKQQ)
-- [STAR WARS Jedi  Survivor™ meeting ashe jave amd DD-EC making the music](https://www.youtube.com/watch?v=FNQvJvjP7uA)
 <!-- BLOG-POST-LIST:END -->
 

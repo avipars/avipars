@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [How to find Mosey Cimarron in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=tq4zmAnP19A)
 - [First Flight - Intro to the cockpit in Star Wars Squadrons](https://www.youtube.com/watch?v=v4ex3VI-Qks)
 - [Find missing prospectors - side quest cinematic in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=-6v7cKGX1Lw)
 - [IRS hotline for calling from outside of the US, with record fast answering time](http://sales.aviparshan.com/2023/07/irs-hotline-for-calling-from-outside-of.html)
 - [Taron Malicos Boss Battle - Jedi Fallen Order](https://www.youtube.com/watch?v=d_Xl9RQJ-50)
 - [Meeting Toa in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=9aQqcZaQi7g)
-- [Crash landing on Koboh in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=mH6tB7y6o_o)
 <!-- BLOG-POST-LIST:END -->
 

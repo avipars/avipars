@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [How to replace the battery on a samsung smarttag](https://www.youtube.com/watch?v=HuXSiEccCc8)
 - [How to beat  a security droid in STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=iKXKBMKFB8I)
 - [Saw Gerrera and the wookies -Jedi  Fallen Order](https://www.youtube.com/watch?v=4ghqDHGU-nU)
 - [How to find Mosey Cimarron in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=tq4zmAnP19A)
 - [First Flight - Intro to the cockpit in Star Wars Squadrons](https://www.youtube.com/watch?v=v4ex3VI-Qks)
 - [Find missing prospectors - side quest cinematic in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=-6v7cKGX1Lw)
-- [IRS hotline for calling from outside of the US, with record fast answering time](http://sales.aviparshan.com/2023/07/irs-hotline-for-calling-from-outside-of.html)
 <!-- BLOG-POST-LIST:END -->
 

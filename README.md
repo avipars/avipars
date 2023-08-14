@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Javes - Tie Fighter in STAR WARS™  Squadrons](https://www.youtube.com/watch?v=ueAn2eFeK94)
 - [BD-1, Don&#39;t scan animals in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=c0MGwS8N5a0)
 - [Jumping to hyperspace in STAR WARS™  Squadrons](https://www.youtube.com/watch?v=Q1Ua2i9Q87U)
 - [How to replace the battery on a samsung smarttag](https://www.youtube.com/watch?v=HuXSiEccCc8)
 - [How to beat  a security droid in STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=iKXKBMKFB8I)
 - [Saw Gerrera and the wookies -Jedi  Fallen Order](https://www.youtube.com/watch?v=4ghqDHGU-nU)
-- [How to find Mosey Cimarron in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=tq4zmAnP19A)
 <!-- BLOG-POST-LIST:END -->
 

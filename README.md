@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Urgost, Fist of Rayvis Boss Battle in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=XwdEJc0sHl4)
 - [STAR WARS Jedi  Survivor Glitching out in the cave](https://www.youtube.com/watch?v=b3mWTxnmgCA)
 - [Jedha - AT-ST Attack in the Desert - STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=FB3ieXbuicg)
 - [מבטלים מנוי של פריים ומקבלים החזר כספי &lpar;אם לא ניצלת את המנוי&rpar;!](https://www.youtube.com/watch?v=clBkeN8B1Us)
 - [Javes - Tie Fighter in STAR WARS™  Squadrons](https://www.youtube.com/watch?v=ueAn2eFeK94)
 - [BD-1, Don&#39;t scan animals in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=c0MGwS8N5a0)
-- [Jumping to hyperspace in STAR WARS™  Squadrons](https://www.youtube.com/watch?v=Q1Ua2i9Q87U)
 <!-- BLOG-POST-LIST:END -->
 

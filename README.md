@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Project Starhawk - Imperial Briefing in STAR WARS™  Squadrons](https://www.youtube.com/watch?v=7Rj9PZ5IUzo)
 - [Part 2 Compressed air vs an air compressor #Shorts](https://www.youtube.com/watch?v=EI23m81cZhI)
 - [Tips to know before using compressed air canisters #Shorts](https://www.youtube.com/watch?v=uPIOKd2jKPA)
 - [Trilla - Flashback to becoming a inquisitor](https://www.youtube.com/watch?v=X_Yg4sOUfhU)
 - [Travel to Bogano in STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=KmJVRqK8xuA)
 - [MIPS and the Little Endians — Tips and an FAQ to help ace your computer architecture class and…](https://aviparshan.medium.com/mips-and-the-little-endians-tips-and-an-faq-to-help-ace-your-computer-architecture-class-and-843c4f044813?source=rss-aa2514e75b06------2)
-- [Urgost, Fist of Rayvis Boss Battle in STAR WARS Jedi  Survivor](https://www.youtube.com/watch?v=XwdEJc0sHl4)
 <!-- BLOG-POST-LIST:END -->
 

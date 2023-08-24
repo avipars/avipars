@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Cinematic of - Jaro Tapal Boss fight with Cal Kestis in STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=HnFQJs2i9to)
 - [Rambler&#39;s Reach - Stables Hidden Chest in Jedi Survivor](https://www.youtube.com/watch?v=VGwBbvOJ5SY)
 - [How to put the front panel on the Antec NX800 #Shorts](https://www.youtube.com/watch?v=jWQ1YOokx7c)
 - [How to open and remove the front panel on the Antec NX800](https://www.youtube.com/watch?v=wUwbnenvDEc)
 - [Project Starhawk - Imperial Briefing in STAR WARS™  Squadrons](https://www.youtube.com/watch?v=7Rj9PZ5IUzo)
 - [Part 2 Compressed air vs an air compressor #Shorts](https://www.youtube.com/watch?v=EI23m81cZhI)
-- [Tips to know before using compressed air canisters #Shorts](https://www.youtube.com/watch?v=uPIOKd2jKPA)
 <!-- BLOG-POST-LIST:END -->
 

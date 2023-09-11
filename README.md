@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [How to watermark many PDF files at the same time](https://aviparshan.medium.com/how-to-watermark-many-pdf-files-at-the-same-time-488d5944c307?source=rss-aa2514e75b06------2)
 - [Review of the combination lock on the Amazon Choice Backpack of 2023 -  SHRAADOO 52 Liter](https://www.youtube.com/watch?v=FL0XeN3F8xE)
 - [Finding the Gorge Crash Site in STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=1UvO4i60zMw)
 - [Jaro Tapal training Cal Kestis as a Padawan prior to Order 66](https://www.youtube.com/watch?v=qcHihe3fivc)
 - [Bixby text calls with custom voice and several languages #bixby #samsung  #Shorts](https://www.youtube.com/watch?v=eo4Ocnup0wA)
 - [Cinematic of - Jaro Tapal Boss fight with Cal Kestis in STAR WARS Jedi  Fallen Order™](https://www.youtube.com/watch?v=HnFQJs2i9to)
-- [Rambler&#39;s Reach - Stables Hidden Chest in Jedi Survivor](https://www.youtube.com/watch?v=VGwBbvOJ5SY)
 <!-- BLOG-POST-LIST:END -->
 

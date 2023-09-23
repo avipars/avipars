@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Before and after - rugged phone case #Shorts](https://www.youtube.com/watch?v=BFdiClY9hN4)
 - [Nekko Mounting and secret priorite shard - STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=KAzO_rYohAY)
 - [Calculate Z score &lpar;standard distribution without the table&rpar; on the Casio FX991es  #Shorts](https://www.youtube.com/watch?v=dVh2k_uMhmk)
 - [iPhone 15 Announcement and Specs within 1 Minute! #Shorts](https://www.youtube.com/watch?v=GQK9yJljnlw)
 - [iPhony 15 September 2023 Announcement &lpar;USB 2.0 and year old specs&rpar;](https://www.youtube.com/watch?v=SLzDaLY1snQ)
 - [Featuring an all new Aluminum Unibody - iPhone 15 Trailer Ad](https://www.youtube.com/watch?v=TnkmeNgCGEY)
-- [How to watermark many PDF files at the same time](https://aviparshan.medium.com/how-to-watermark-many-pdf-files-at-the-same-time-488d5944c307?source=rss-aa2514e75b06------2)
 <!-- BLOG-POST-LIST:END -->
 

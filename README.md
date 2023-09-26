@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Funny Android app review #Shorts](https://www.youtube.com/watch?v=gb8IIuA6KMw)
 - [Before and after - rugged phone case #Shorts](https://www.youtube.com/watch?v=BFdiClY9hN4)
 - [Nekko Mounting and secret priorite shard - STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=KAzO_rYohAY)
 - [Calculate Z score &lpar;standard distribution without the table&rpar; on the Casio FX991es  #Shorts](https://www.youtube.com/watch?v=dVh2k_uMhmk)
 - [iPhone 15 Announcement and Specs within 1 Minute! #Shorts](https://www.youtube.com/watch?v=GQK9yJljnlw)
 - [iPhony 15 September 2023 Announcement &lpar;USB 2.0 and year old specs&rpar;](https://www.youtube.com/watch?v=SLzDaLY1snQ)
-- [Featuring an all new Aluminum Unibody - iPhone 15 Trailer Ad](https://www.youtube.com/watch?v=TnkmeNgCGEY)
 <!-- BLOG-POST-LIST:END -->
 

@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
-- [Solve a definite integral by hand and also with the fx991es plus](https://www.youtube.com/watch?v=p4ptGaDIdRE)
-- [Funny Android app review #Shorts](https://www.youtube.com/watch?v=gb8IIuA6KMw)
-- [Before and after - rugged phone case #Shorts](https://www.youtube.com/watch?v=BFdiClY9hN4)
-- [Nekko Mounting and secret priorite shard - STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=KAzO_rYohAY)
-- [Calculate Z score &lpar;standard distribution without the table&rpar; on the Casio FX991es  #Shorts](https://www.youtube.com/watch?v=dVh2k_uMhmk)
-- [iPhone 15 Announcement and Specs within 1 Minute! #Shorts](https://www.youtube.com/watch?v=GQK9yJljnlw)
+- [מבטלים מנוי של פריים ומקבלים החזר כספי &lpar;אם לא ניצלת את המנוי&rpar;!](https://www.youtube.com/watch?v=clBkeN8B1Us)
+- [Using the Flipper Zero to mess with store intercoms! #Shorts](https://www.youtube.com/watch?v=cjn98me0ZZw)
+- [samsung fridge bin replacement  #Shorts](https://www.youtube.com/watch?v=okHXpHI0SVU)
+- [7/11 landed in Israel #Shorts](https://www.youtube.com/watch?v=NTibikC8Pmo)
+- [using the flipper zero to shut off TVS](https://www.youtube.com/watch?v=Fc0gh_R6_0I)
+- [Flipper zero airtag attack #Shorts](https://www.youtube.com/watch?v=pJI1wdrzEo0)
 <!-- BLOG-POST-LIST:END -->
 

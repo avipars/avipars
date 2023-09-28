@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Flipper zero receiving another flipper&#39;s brute force attack - Sub GHz #Shortts](https://www.youtube.com/watch?v=_0LkxEKQtRs)
+- [“Very Long Vector Path” issues… and where to solve them — Issue with the settings co](https://aviparshan.medium.com/very-long-vector-path-issues-and-where-to-solve-them-issue-with-the-settings-co-fc8ae7a14d3e?source=rss-aa2514e75b06------2)
 - [Solve a definite integral by hand and also with the fx991es plus](https://www.youtube.com/watch?v=p4ptGaDIdRE)
 - [Funny Android app review #Shorts](https://www.youtube.com/watch?v=gb8IIuA6KMw)
 - [Before and after - rugged phone case #Shorts](https://www.youtube.com/watch?v=BFdiClY9hN4)
 - [Nekko Mounting and secret priorite shard - STAR WARS Jedi  Survivor™](https://www.youtube.com/watch?v=KAzO_rYohAY)
-- [Calculate Z score &lpar;standard distribution without the table&rpar; on the Casio FX991es  #Shorts](https://www.youtube.com/watch?v=dVh2k_uMhmk)
-- [iPhone 15 Announcement and Specs within 1 Minute! #Shorts](https://www.youtube.com/watch?v=GQK9yJljnlw)
 <!-- BLOG-POST-LIST:END -->
 

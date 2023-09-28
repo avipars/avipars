@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
 - [Get A First Look At The New Casio Fx991ex Calculator And See How It Measures Up To The Fx991es](https://www.youtube.com/watch?v=fmb3k54-RqQ)
-- [Flipper zero receiving another flipper&#39;s brute force attack - Sub GHz #Shortts](https://www.youtube.com/watch?v=_0LkxEKQtRs)
+- [Flipper zero receiving another flipper&#39;s brute force attack - Sub GHz #Shorts](https://www.youtube.com/watch?v=_0LkxEKQtRs)
 - [“Very Long Vector Path” issues… and where to solve them — Issue with the settings co](https://aviparshan.medium.com/very-long-vector-path-issues-and-where-to-solve-them-issue-with-the-settings-co-fc8ae7a14d3e?source=rss-aa2514e75b06------2)
 - [Solve a definite integral by hand and also with the fx991es plus](https://www.youtube.com/watch?v=p4ptGaDIdRE)
 - [Funny Android app review #Shorts](https://www.youtube.com/watch?v=gb8IIuA6KMw)

@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Force apps to be moved to external storage on Android #Shorts](https://www.youtube.com/watch?v=tR9H9uUNeBw)
 - [How to shut off video wallpaper to save battery in One UI 6 #Shorts](https://www.youtube.com/watch?v=ZVyan_CbDxE)
 - [How to configure and get the right modules for Visual Studio 2022 - C# Windows Project](https://www.youtube.com/watch?v=v38kbo6BbqE)
 - [Update your AMD motherboard bios again - zenbleed vulnerability #Shorts](https://www.youtube.com/watch?v=S-WjyDbxvOo)
 - [Solve and reduce a matrix to RREF on the FX991EX](https://www.youtube.com/watch?v=Q0rzi6-L4tc)
 - [Superbowl Coverage Freudian Slip about Detroit #Shorts](https://www.youtube.com/watch?v=u1g-3hhN0UU)
-- [how eSIMs work in Israel in 2023 #Shorts](https://www.youtube.com/watch?v=gn15BptmXZQ)
 <!-- BLOG-POST-LIST:END -->
 

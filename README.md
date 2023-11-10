@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Yellow/Paz Gaz Station - 10 Shekel for a pint of ben and jerry&#39;s](https://www.youtube.com/watch?v=OyXgy3gXI0M)
 - [Mastercard-day discounts for November 10th, 2023](http://sales.aviparshan.com/2023/11/mastercard-day-discounts-for-november.html)
 - [Driver&#39;s License and Theory Test Resources for Israel](http://sales.aviparshan.com/2023/11/drivers-lessons-and-theory-test.html)
 - [What is castile soap? What sets it apart from traditional cleaning products?](http://sales.aviparshan.com/2023/11/what-is-castile-soap-what-sets-it-apart.html)
 - [Force apps to be moved to external storage on Android #Shorts](https://www.youtube.com/watch?v=tR9H9uUNeBw)
 - [How to shut off video wallpaper to save battery in One UI 6 #Shorts](https://www.youtube.com/watch?v=ZVyan_CbDxE)
-- [How to configure and get the right modules for Visual Studio 2022 - C# Windows Project](https://www.youtube.com/watch?v=v38kbo6BbqE)
 <!-- BLOG-POST-LIST:END -->
 

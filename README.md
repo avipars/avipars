@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Custom Media on the MSG Las Vegas Sphere](https://www.youtube.com/watch?v=9TLBoI_A1Lc)
-- [Make a Custom Shader for the Las Vegas Sphere #Shorts](https://www.youtube.com/watch?v=67YHFJ0vXHI)
-- [Yellow/Paz Gaz Station - 10 Shekel for a pint of ben and jerry&#39;s](https://www.youtube.com/watch?v=OyXgy3gXI0M)
 - [Mastercard-day discounts for November 10th, 2023](http://sales.aviparshan.com/2023/11/mastercard-day-discounts-for-november.html)
 - [Driver&#39;s License and Theory Test Resources for Israel](http://sales.aviparshan.com/2023/11/drivers-lessons-and-theory-test.html)
 - [What is castile soap? What sets it apart from traditional cleaning products?](http://sales.aviparshan.com/2023/11/what-is-castile-soap-what-sets-it-apart.html)
+- [“Very Long Vector Path” issues… and where to solve them — Issue with the settings co](https://aviparshan.medium.com/very-long-vector-path-issues-and-where-to-solve-them-issue-with-the-settings-co-fc8ae7a14d3e?source=rss-aa2514e75b06------2)
+- [How to watermark many PDF files at the same time](https://aviparshan.medium.com/how-to-watermark-many-pdf-files-at-the-same-time-488d5944c307?source=rss-aa2514e75b06------2)
+- [MIPS and the Little Endians — Tips and an FAQ to help ace your computer architecture class and…](https://aviparshan.medium.com/mips-and-the-little-endians-tips-and-an-faq-to-help-ace-your-computer-architecture-class-and-843c4f044813?source=rss-aa2514e75b06------2)
 <!-- BLOG-POST-LIST:END -->
 

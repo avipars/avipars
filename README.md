@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
-- [How to fix the galton board #Shorts](https://www.youtube.com/watch?v=nLrIcslkjrE)
+- [Jacob&#39;s Ladder Electric Experiment #Shorts](https://www.youtube.com/watch?v=Wf1CKH9HpmE)
+- [How to fix stuck beads in a galton board #Shorts](https://www.youtube.com/watch?v=nLrIcslkjrE)
 - [Your Custom Media on the MSG Las Vegas Sphere](https://www.youtube.com/watch?v=9TLBoI_A1Lc)
 - [Make a Custom Shader for the Las Vegas Sphere #Shorts](https://www.youtube.com/watch?v=67YHFJ0vXHI)
 - [Yellow/Paz Gaz Station - 10 Shekel for a pint of ben and jerry&#39;s](https://www.youtube.com/watch?v=OyXgy3gXI0M)
 - [Mastercard-day discounts for November 10th, 2023](http://sales.aviparshan.com/2023/11/mastercard-day-discounts-for-november.html)
-- [Driver&#39;s License and Theory Test Resources for Israel](http://sales.aviparshan.com/2023/11/drivers-lessons-and-theory-test.html)
 <!-- BLOG-POST-LIST:END -->
 

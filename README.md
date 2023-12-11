@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
-- [Jacob&#39;s Ladder Electric Experiment #Shorts](https://www.youtube.com/watch?v=Wf1CKH9HpmE)
+- [Jacob&#39;s Ladder Electric Arc Experiment #Shorts](https://www.youtube.com/watch?v=Wf1CKH9HpmE)
 - [How to fix stuck beads in a galton board #Shorts](https://www.youtube.com/watch?v=nLrIcslkjrE)
 - [Your Custom Media on the MSG Las Vegas Sphere](https://www.youtube.com/watch?v=9TLBoI_A1Lc)
 - [Make a Custom Shader for the Las Vegas Sphere #Shorts](https://www.youtube.com/watch?v=67YHFJ0vXHI)

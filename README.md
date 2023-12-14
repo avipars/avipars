@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Thank your amazon delivery driver for free, and it gives them a $5 tip! #Shorts @amazon](https://www.youtube.com/watch?v=F5kVcBG2MrQ)
 - [Galton board live demonstration #Shorts](https://www.youtube.com/watch?v=j7fbas07GbM)
 - [Jacob&#39;s Ladder Electric Arc Experiment #Shorts](https://www.youtube.com/watch?v=Wf1CKH9HpmE)
 - [How to fix stuck beads in a galton board #Shorts](https://www.youtube.com/watch?v=nLrIcslkjrE)
 - [Your Custom Media on the MSG Las Vegas Sphere](https://www.youtube.com/watch?v=9TLBoI_A1Lc)
 - [Make a Custom Shader for the Las Vegas Sphere #Shorts](https://www.youtube.com/watch?v=67YHFJ0vXHI)
-- [Yellow/Paz Gaz Station - 10 Shekel for a pint of ben and jerry&#39;s](https://www.youtube.com/watch?v=OyXgy3gXI0M)
 <!-- BLOG-POST-LIST:END -->
 

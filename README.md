@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
-- [GIGABYTE WiFi 6E GC-WBAX2400R Unboxing](https://www.youtube.com/watch?v=IE6p_koeUzY)
-- [What the TikTok Effect Panel Looks Like #Shorts](https://www.youtube.com/watch?v=YsMJeGgGhgU)
-- [Thank your amazon delivery driver for free, and it gives them a $5 tip! #Shorts @amazon](https://www.youtube.com/watch?v=F5kVcBG2MrQ)
-- [Galton board live demonstration #Shorts](https://www.youtube.com/watch?v=j7fbas07GbM)
-- [Jacob&#39;s Ladder Electric Arc Experiment #Shorts](https://www.youtube.com/watch?v=Wf1CKH9HpmE)
-- [How to fix stuck beads in a galton board #Shorts](https://www.youtube.com/watch?v=nLrIcslkjrE)
+- [Mastercard-day discounts for Winter 2024](http://sales.aviparshan.com/2023/11/mastercard-day-discounts-for-november.html)
+- [Driver&#39;s License and Theory Test Resources for Israel](http://sales.aviparshan.com/2023/11/drivers-lessons-and-theory-test.html)
+- [What is castile soap? What sets it apart from traditional cleaning products?](http://sales.aviparshan.com/2023/11/what-is-castile-soap-what-sets-it-apart.html)
+- [“Very Long Vector Path” issues… and where to solve them — Issue with the settings co](https://aviparshan.medium.com/very-long-vector-path-issues-and-where-to-solve-them-issue-with-the-settings-co-fc8ae7a14d3e?source=rss-aa2514e75b06------2)
+- [How to watermark many PDF files at the same time](https://aviparshan.medium.com/how-to-watermark-many-pdf-files-at-the-same-time-488d5944c307?source=rss-aa2514e75b06------2)
+- [MIPS and the Little Endians — Tips and an FAQ to help ace your computer architecture class and…](https://aviparshan.medium.com/mips-and-the-little-endians-tips-and-an-faq-to-help-ace-your-computer-architecture-class-and-843c4f044813?source=rss-aa2514e75b06------2)
 <!-- BLOG-POST-LIST:END -->
 

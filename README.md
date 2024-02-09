@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
-- [GIGABYTE WiFi 6E GC-WBAX2400R Unboxing](https://www.youtube.com/watch?v=IE6p_koeUzY)
+- [GIGABYTE WiFi 6E  And Bluetooth PCIE Card  GC-WBAX2400R Unboxing](https://www.youtube.com/watch?v=IE6p_koeUzY)
 - [What the TikTok Effect Panel Looks Like #Shorts](https://www.youtube.com/watch?v=YsMJeGgGhgU)
 - [Thank your amazon delivery driver for free, and it gives them a $5 tip! #Shorts @amazon](https://www.youtube.com/watch?v=F5kVcBG2MrQ)
 - [Galton board live demonstration #Shorts](https://www.youtube.com/watch?v=j7fbas07GbM)

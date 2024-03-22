@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
-- [GIGABYTE WiFi 6E  And Bluetooth PCIE Card  GC-WBAX2400R Unboxing](https://www.youtube.com/watch?v=IE6p_koeUzY)
-- [What the TikTok Effect Panel Looks Like #Shorts](https://www.youtube.com/watch?v=YsMJeGgGhgU)
 - [Thank your amazon delivery driver for free, and it gives them a $5 tip! #Shorts @amazon](https://www.youtube.com/watch?v=F5kVcBG2MrQ)
-- [Galton board live demonstration #Shorts](https://www.youtube.com/watch?v=j7fbas07GbM)
-- [Jacob&#39;s Ladder Electric Arc Experiment #Shorts](https://www.youtube.com/watch?v=Wf1CKH9HpmE)
-- [How to fix stuck beads in a galton board #Shorts](https://www.youtube.com/watch?v=nLrIcslkjrE)
+- [Yellow/Paz Gaz Station - 10 Shekel for a pint of ben and jerry&#39;s](https://www.youtube.com/watch?v=OyXgy3gXI0M)
+- [Mastercard-day discounts for Winter 2024](http://sales.aviparshan.com/2023/11/mastercard-day-discounts-for-november.html)
+- [Driver&#39;s License and Theory Test Resources for Israel](http://sales.aviparshan.com/2023/11/drivers-lessons-and-theory-test.html)
+- [What is castile soap? What sets it apart from traditional cleaning products?](http://sales.aviparshan.com/2023/11/what-is-castile-soap-what-sets-it-apart.html)
+- [how eSIMs work in Israel in 2023 #Shorts](https://www.youtube.com/watch?v=gn15BptmXZQ)
 <!-- BLOG-POST-LIST:END -->
 

@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Unboxing of the Lenovo 600 Wireless Media Mouse](https://www.youtube.com/watch?v=JZiJVMbWcew)
 - [GIGABYTE WiFi 6E  And Bluetooth PCIE Card  GC-WBAX2400R Unboxing](https://www.youtube.com/watch?v=IE6p_koeUzY)
 - [What the TikTok Effect Panel Looks Like #Shorts](https://www.youtube.com/watch?v=YsMJeGgGhgU)
 - [Thank your amazon delivery driver for free, and it gives them a $5 tip! #Shorts @amazon](https://www.youtube.com/watch?v=F5kVcBG2MrQ)
 - [Galton board live demonstration #Shorts](https://www.youtube.com/watch?v=j7fbas07GbM)
 - [Jacob&#39;s Ladder Electric Arc Experiment #Shorts](https://www.youtube.com/watch?v=Wf1CKH9HpmE)
-- [How to fix stuck beads in a galton board #Shorts](https://www.youtube.com/watch?v=nLrIcslkjrE)
 <!-- BLOG-POST-LIST:END -->
 

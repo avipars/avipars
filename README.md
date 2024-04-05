@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
-- [Fix the Samsung Keyboard Interface in One UI 6.1 &lpar;hide voice input on bottom #Shorts](https://www.youtube.com/watch?v=PVT4-ScCTvI)
+- [Fix the Samsung Keyboard Interface in One UI 6.1 - hide voice input on bottom #Shorts](https://www.youtube.com/watch?v=PVT4-ScCTvI)
 - [How to get the old swipe navigation back in OneUI 6.1 #Shorts](https://www.youtube.com/watch?v=rR2LdOHabNk)
 - [Lenovo B730 Backpack - fits 17.3 inch laptop Unboxing](https://www.youtube.com/watch?v=WbPV0PSFz0w)
 - [Unboxing of the Lenovo 600 Wireless Media Mouse](https://www.youtube.com/watch?v=JZiJVMbWcew)

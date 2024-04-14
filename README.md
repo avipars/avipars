@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Demo of my Galaxy Watch Active2 application - Controllr](https://www.youtube.com/watch?v=cKrnYXDZokE)
 - [Lenovo B730 Backpack - fits 17.3 inch laptop Unboxing](https://www.youtube.com/watch?v=WbPV0PSFz0w)
 - [Fix the Samsung Keyboard Interface in One UI 6.1 - hide voice input on bottom #Shorts](https://www.youtube.com/watch?v=PVT4-ScCTvI)
 - [How to get the old swipe navigation back in OneUI 6.1 #Shorts](https://www.youtube.com/watch?v=rR2LdOHabNk)
 - [Unboxing of the Lenovo 600 Wireless Media Mouse](https://www.youtube.com/watch?v=JZiJVMbWcew)
 - [GIGABYTE WiFi 6E  And Bluetooth PCIE Card  GC-WBAX2400R Unboxing](https://www.youtube.com/watch?v=IE6p_koeUzY)
-- [What the TikTok Effect Panel Looks Like #Shorts](https://www.youtube.com/watch?v=YsMJeGgGhgU)
 <!-- BLOG-POST-LIST:END -->
 

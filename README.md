@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing the limits on how far the S23 can zoom in #Shorts](https://www.youtube.com/watch?v=Aye4j3ceocI)
 - [How to update apps apps and watchfaces from the Google play store for your WearOS smartwatch.](https://www.youtube.com/watch?v=p0tZCqZSikk)
 - [Tim Cook Saying Good Morning](https://www.youtube.com/watch?v=X4u7HQgi_Ks)
 - [How to customize watch faces on Tizen Watches &lpar;Galaxy Watch Active2 + more&rpar;](https://www.youtube.com/watch?v=HSXikBJmzuM)
 - [Star-lord is stuck in the Marvel&#39;s Guardians of the Galaxy](https://www.youtube.com/watch?v=fO4Fb1Gr_68)
 - [Demo of my Galaxy Watch Active2 application - Controllr](https://www.youtube.com/watch?v=cKrnYXDZokE)
-- [Lenovo B730 Backpack - fits 17.3 inch laptop Unboxing](https://www.youtube.com/watch?v=WbPV0PSFz0w)
 <!-- BLOG-POST-LIST:END -->
 

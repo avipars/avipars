@@ -70,8 +70,8 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
-- [#Shorts unboxing of power strip and surge protector](https://www.youtube.com/watch?v=D-IDwkR4HLM)
 - [Unboxing a israeli surge protector and power strip](https://www.youtube.com/watch?v=UN8_T3yGdQ4)
+- [#Shorts unboxing of power strip and surge protector](https://www.youtube.com/watch?v=D-IDwkR4HLM)
 - [Zooming in via video on the Galaxy S23](https://www.youtube.com/watch?v=OjYZiP-PyUA)
 - [Star-lord is stuck in the Marvel&#39;s Guardians of the Galaxy](https://www.youtube.com/watch?v=fO4Fb1Gr_68)
 - [How to customize watch faces on Tizen Watches &lpar;Galaxy Watch Active2 + more&rpar;](https://www.youtube.com/watch?v=HSXikBJmzuM)

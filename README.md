@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Unboxing and Battery Replacement of SmartTag2](https://www.youtube.com/watch?v=zRrGFzy4IEU)
 - [Unboxing Galaxy Buds Live protective cases](https://www.youtube.com/watch?v=cIkiqid06BQ)
 - [How to set up a SmartTag2 #Shorts](https://www.youtube.com/watch?v=s0oOlJ_iD5A)
 - [Unboxing a israeli surge protector and power strip](https://www.youtube.com/watch?v=UN8_T3yGdQ4)
 - [#Shorts unboxing of power strip and surge protector](https://www.youtube.com/watch?v=D-IDwkR4HLM)
-- [Unboxing and Battery Replacement of SmartTag2](https://www.youtube.com/watch?v=zRrGFzy4IEU)
 - [Zooming in via video on the Galaxy S23](https://www.youtube.com/watch?v=OjYZiP-PyUA)
 <!-- BLOG-POST-LIST:END -->
 

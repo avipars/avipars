@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastercarday discounts for August 2024](http://sales.aviparshan.com/2024/08/mastercard-day-discounts-for-august-2024.html)
+- [Surprising things that ship free to Israel on Amazon](http://sales.aviparshan.com/2024/08/surprising-things-that-ship-free-to.html)
 - [3D printing slow mo #slowmo #printing](https://www.youtube.com/watch?v=VuDQuM63xj0)
 - [3d printer timelapse of screw #3dprinting](https://www.youtube.com/watch?v=OIi8eUTBcyM)
 - [Scammed on FB Marketplace over a Raspberry Pi #Shorts](https://www.youtube.com/watch?v=KZ03Pq2t4ew)
 - [Unboxing and Battery Replacement of SmartTag2](https://www.youtube.com/watch?v=zRrGFzy4IEU)
-- [Unboxing Galaxy Buds Live protective cases](https://www.youtube.com/watch?v=cIkiqid06BQ)
-- [How to set up a SmartTag2 #Shorts](https://www.youtube.com/watch?v=s0oOlJ_iD5A)
 <!-- BLOG-POST-LIST:END -->
 

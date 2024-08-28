@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there ,😄I'm [Avi!](https://www.aviparshan.com/?utm_source=ghb) 👋.  
-#### I'm a student in Israel studying computer science!
+#### I'm a college student studying computer science!
 <br/>
 
 📫 How to find me:

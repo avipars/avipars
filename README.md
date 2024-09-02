@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Flipper Zero Unboxing #flipperzero #hacking](https://www.youtube.com/watch?v=qwyR_2OP4MQ)
+- [Flipper Zero full unboxing and accessories](https://www.youtube.com/watch?v=Preweg9Pmms)
 - [Assembling an acrylic case for my Pi Zero](https://www.youtube.com/watch?v=qpF0K2QvhA0)
 - [Unboxing raspberry pi usb c power supply &lpar;for pi 4 and pi 5&rpar; #raspberrypi #shorts](https://www.youtube.com/watch?v=CkWqpkz-Oyg)
 - [Do not buy these MicroSD cards for your Raspberry Pi #Shorts #raspberrypi](https://www.youtube.com/watch?v=eK0ok5dTNj0)
 - [3D printing slow mo #slowmo #printing](https://www.youtube.com/watch?v=VuDQuM63xj0)
-- [3d printer timelapse of screw #3dprinting](https://www.youtube.com/watch?v=OIi8eUTBcyM)
-- [Scammed on FB Marketplace over a Raspberry Pi #Shorts](https://www.youtube.com/watch?v=KZ03Pq2t4ew)
 <!-- BLOG-POST-LIST:END -->
 

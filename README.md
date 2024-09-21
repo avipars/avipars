@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Flipper Zero opens Tesla Charge Port #tesla #Shorts #flipperzerohacking](https://www.youtube.com/watch?v=dUZs7tFFbeo)
 - [Unlock hotel room doors via the Flipper Zero #Shorts](https://www.youtube.com/watch?v=p1qKMG2xakw)
 - [Flipper Zero full unboxing and accessories](https://www.youtube.com/watch?v=Preweg9Pmms)
 - [Flipper Zero Unboxing #flipperzero #hacking #Shorts](https://www.youtube.com/watch?v=qwyR_2OP4MQ)
 - [Assembling an acrylic case for my Pi Zero](https://www.youtube.com/watch?v=qpF0K2QvhA0)
 - [Unboxing raspberry pi usb c power supply &lpar;for pi 4 and pi 5&rpar; #raspberrypi #shorts](https://www.youtube.com/watch?v=CkWqpkz-Oyg)
-- [Do not buy these MicroSD cards for your Raspberry Pi #Shorts #raspberrypi](https://www.youtube.com/watch?v=eK0ok5dTNj0)
 <!-- BLOG-POST-LIST:END -->
 

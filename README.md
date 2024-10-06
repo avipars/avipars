@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [The insides of a Dell Inspiron 5510 Laptop &lpar;15.6 inch&rpar;](https://www.youtube.com/watch?v=62PW9901W6A)
 - [DHT11 Temperature and Humidity Sensor on the Flipper Zero #Shorts](https://www.youtube.com/watch?v=Jic9GVFarsc)
 - [Flipper Zero opens Tesla Charge Port #tesla #Shorts #flipperzerohacking](https://www.youtube.com/watch?v=dUZs7tFFbeo)
 - [Unlock hotel room doors via the Flipper Zero #Shorts](https://www.youtube.com/watch?v=p1qKMG2xakw)
 - [Flipper Zero full unboxing and accessories](https://www.youtube.com/watch?v=Preweg9Pmms)
 - [Flipper Zero Unboxing #flipperzero #hacking #Shorts](https://www.youtube.com/watch?v=qwyR_2OP4MQ)
-- [Assembling an acrylic case for my Pi Zero](https://www.youtube.com/watch?v=qpF0K2QvhA0)
 <!-- BLOG-POST-LIST:END -->
 

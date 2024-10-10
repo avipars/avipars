@@ -70,10 +70,10 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Flipper Zero - IR remote with TV and Air Conditioner](https://www.youtube.com/watch?v=0a9-vRl1-Zo)
 - [The end of .io domain names #Shorts](https://www.youtube.com/watch?v=Whnc2Sdghy4)
 - [Did crocs secretly shrink the width of their products? #Crocs #Shorts](https://www.youtube.com/watch?v=zAvwuTGzGOE)
 - [The insides of a Dell Inspiron 5510 Laptop &lpar;15.6 inch&rpar;](https://www.youtube.com/watch?v=62PW9901W6A)
-- [Flipper Zero - IR remote with TV and Air Conditioner](https://www.youtube.com/watch?v=0a9-vRl1-Zo)
 - [DHT11 Temperature and Humidity Sensor on the Flipper Zero #Shorts](https://www.youtube.com/watch?v=Jic9GVFarsc)
 - [Flipper Zero opens Tesla Charge Port #tesla #Shorts #flipperzerohacking](https://www.youtube.com/watch?v=dUZs7tFFbeo)
 <!-- BLOG-POST-LIST:END -->

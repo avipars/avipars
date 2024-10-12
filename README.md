@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Flipper zero plays music #flipperzero](https://www.youtube.com/watch?v=bhKHCbR6wEo)
 - [ASMR unboxing of otterbox defender case #Shorts #asmr](https://www.youtube.com/watch?v=W0hyOldMA9Q)
 - [Flipper Zero IR Remote](https://www.youtube.com/watch?v=hgXZbpKvXno)
 - [Flipper Zero - IR remote with TV and Air Conditioner](https://www.youtube.com/watch?v=0a9-vRl1-Zo)
 - [The end of .io domain names #Shorts](https://www.youtube.com/watch?v=Whnc2Sdghy4)
 - [Did crocs secretly shrink the width of their products? #Crocs #Shorts](https://www.youtube.com/watch?v=zAvwuTGzGOE)
-- [The insides of a Dell Inspiron 5510 Laptop &lpar;15.6 inch&rpar;](https://www.youtube.com/watch?v=62PW9901W6A)
 <!-- BLOG-POST-LIST:END -->
 

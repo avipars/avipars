@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Vision QR Code Scanner walk through #chill #Shorts](https://www.youtube.com/watch?v=yfxBMrdrc38)
 - [BT Spam an Android phone via flipper zero #Shorts](https://www.youtube.com/watch?v=2ZUnaNQCb0Y)
 - [Running a Test on the Pi Zero W #Shorts #raspberrypizero](https://www.youtube.com/watch?v=Wwny3vtAsqE)
 - [How to install a 5 volt fan in a Raspberry Pi](https://www.youtube.com/watch?v=xAsyp5kyZA0)
 - [Flipper zero plays music #flipperzero](https://www.youtube.com/watch?v=bhKHCbR6wEo)
 - [ASMR unboxing of otterbox defender case #Shorts #asmr](https://www.youtube.com/watch?v=W0hyOldMA9Q)
-- [Flipper Zero IR Remote](https://www.youtube.com/watch?v=hgXZbpKvXno)
 <!-- BLOG-POST-LIST:END -->
 

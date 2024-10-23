@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [iPhone emitting IR signals that are then captured by a flipper zero](https://www.youtube.com/watch?v=JqjnhPN0GeI)
 - [Beware  Hidden Dangers of Flashlight Apps!](https://www.youtube.com/watch?v=R0dj66XUD64)
 - [Welcome to unitMeasure #Shorts](https://www.youtube.com/watch?v=FnSg5eByDQQ)
 - [Vision QR Code Scanner walk through #chill #Shorts](https://www.youtube.com/watch?v=yfxBMrdrc38)
 - [BT Spam an Android phone via flipper zero #Shorts](https://www.youtube.com/watch?v=2ZUnaNQCb0Y)
 - [Running a Test on the Pi Zero W #Shorts #raspberrypizero](https://www.youtube.com/watch?v=Wwny3vtAsqE)
-- [How to install a 5 volt fan in a Raspberry Pi](https://www.youtube.com/watch?v=xAsyp5kyZA0)
 <!-- BLOG-POST-LIST:END -->
 

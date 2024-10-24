@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [HackRF NOAA experiment](https://www.youtube.com/watch?v=JKE5SaFML6w)
 - [Copying a key via flipper](https://www.youtube.com/watch?v=UtvKtcVkVCU)
 - [Evil twin attack via flipper zero](https://www.youtube.com/watch?v=0jKP_60fMl8)
 - [ESP32 Maurader Custom build](https://www.youtube.com/watch?v=vrKM0BoqwK4)
 - [iPhone emitting IR signals that are then captured by a flipper zero](https://www.youtube.com/watch?v=JqjnhPN0GeI)
 - [Beware  Hidden Dangers of Flashlight Apps!](https://www.youtube.com/watch?v=R0dj66XUD64)
-- [Welcome to unitMeasure #Shorts](https://www.youtube.com/watch?v=FnSg5eByDQQ)
 <!-- BLOG-POST-LIST:END -->
 

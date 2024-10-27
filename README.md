@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
-- [Trolling with a flipper zero #troll #flipperzero #Shorts](https://www.youtube.com/watch?v=udpVElUs_lo)
-- [HackRF NOAA experiment](https://www.youtube.com/watch?v=JKE5SaFML6w)
-- [Copying a key via flipper](https://www.youtube.com/watch?v=UtvKtcVkVCU)
-- [Evil twin attack via flipper zero](https://www.youtube.com/watch?v=0jKP_60fMl8)
+- [Flipper Zero - IR RAW and debug mode #Shorts](https://www.youtube.com/watch?v=1__JG3W7s38)
+- [key copier - flipper zero on momentum firmware](https://www.youtube.com/watch?v=TlbTu0sfkwY)
 - [ESP32 Maurader Custom build](https://www.youtube.com/watch?v=vrKM0BoqwK4)
-- [iPhone emitting IR signals that are then captured by a flipper zero](https://www.youtube.com/watch?v=JqjnhPN0GeI)
+- [Beware  Hidden Dangers of Flashlight Apps!](https://www.youtube.com/watch?v=R0dj66XUD64)
+- [Welcome to unitMeasure #Shorts](https://www.youtube.com/watch?v=FnSg5eByDQQ)
+- [Vision QR Code Scanner walk through #chill #Shorts](https://www.youtube.com/watch?v=yfxBMrdrc38)
 <!-- BLOG-POST-LIST:END -->
 

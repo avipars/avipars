@@ -72,9 +72,9 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Flipper Zero - IR RAW and debug mode #Shorts](https://www.youtube.com/watch?v=1__JG3W7s38)
 - [key copier - flipper zero on momentum firmware](https://www.youtube.com/watch?v=TlbTu0sfkwY)
-- [ESP32 Maurader Custom build](https://www.youtube.com/watch?v=vrKM0BoqwK4)
 - [Beware  Hidden Dangers of Flashlight Apps!](https://www.youtube.com/watch?v=R0dj66XUD64)
 - [Welcome to unitMeasure #Shorts](https://www.youtube.com/watch?v=FnSg5eByDQQ)
 - [Vision QR Code Scanner walk through #chill #Shorts](https://www.youtube.com/watch?v=yfxBMrdrc38)
+- [BT Spam an Android phone via flipper zero #Shorts](https://www.youtube.com/watch?v=2ZUnaNQCb0Y)
 <!-- BLOG-POST-LIST:END -->
 

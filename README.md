@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [documenting a weird horizontal line issue with razer blade laptop](https://www.youtube.com/watch?v=Ea7IDcNmJZM)
 - [Razer Laptop Major RGB issues?](https://www.youtube.com/watch?v=J0vhQBSsJno)
 - [Razer Blade 15 &lpar;2020&rpar; Potential RGB issues?](https://www.youtube.com/watch?v=14WmfBs_Q80)
 - [Flipper Zero - IR RAW and debug mode #Shorts](https://www.youtube.com/watch?v=1__JG3W7s38)
 - [key copier - flipper zero on momentum firmware](https://www.youtube.com/watch?v=TlbTu0sfkwY)
 - [Beware  Hidden Dangers of Flashlight Apps!](https://www.youtube.com/watch?v=R0dj66XUD64)
-- [Welcome to unitMeasure #Shorts](https://www.youtube.com/watch?v=FnSg5eByDQQ)
 <!-- BLOG-POST-LIST:END -->
 

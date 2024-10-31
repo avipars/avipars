@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [epic 3d printing timelapse](https://www.youtube.com/watch?v=3hNpUMzY7bs)
 - [Razer makes the best laptops](https://www.youtube.com/watch?v=qJT83gP1Xdw)
 - [It&#39;s Raining RGB - Edit](https://www.youtube.com/watch?v=UakAlyyvbhM)
 - [it&#39;s raining RGB](https://www.youtube.com/watch?v=U_qkm_tdiV4)
 - [documenting a weird horizontal line issue with razer blade laptop](https://www.youtube.com/watch?v=Ea7IDcNmJZM)
 - [Razer Laptop Major RGB issues?](https://www.youtube.com/watch?v=J0vhQBSsJno)
-- [Razer Blade 15 &lpar;2020&rpar; Potential RGB issues?](https://www.youtube.com/watch?v=14WmfBs_Q80)
 <!-- BLOG-POST-LIST:END -->
 

@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
-- [Streaming video from a Raspberry Pi Zwro and Pi Cam 2.1 NOIR to a PC](https://www.youtube.com/watch?v=ADxsD75cpsw)
+- [Pi camera NOIR on a web server streaming video &lpar;with pi zero w&rpar;](https://www.youtube.com/watch?v=hkoxSHssY_g)
+- [Pi Camera NOIR web server teaser trailer #Shorts](https://www.youtube.com/watch?v=aRDAq3Hvq74)
+- [Streaming video from a Raspberry Pi Zero and Pi Cam 2.1 NOIR to a PC](https://www.youtube.com/watch?v=ADxsD75cpsw)
 - [epic 3d printing timelapse](https://www.youtube.com/watch?v=3hNpUMzY7bs)
 - [Razer makes the best laptops](https://www.youtube.com/watch?v=qJT83gP1Xdw)
 - [It&#39;s Raining RGB - Edit](https://www.youtube.com/watch?v=UakAlyyvbhM)
-- [it&#39;s raining RGB](https://www.youtube.com/watch?v=U_qkm_tdiV4)
-- [documenting a weird horizontal line issue with razer blade laptop](https://www.youtube.com/watch?v=Ea7IDcNmJZM)
 <!-- BLOG-POST-LIST:END -->
 

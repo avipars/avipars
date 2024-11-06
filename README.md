@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [dismantling a $4 aliexpress bluetooth/2.4ghz mouse](https://www.youtube.com/watch?v=gpwbb1OL65g)
 - [Meuhedet Online Pharmacy has free delivery to your door in Israel, so cool #israel](https://www.youtube.com/watch?v=A7IBqvBdf8Q)
 - [הזמנות תרופות עד לבית עם משלוח חינם #meuhedet #health #בריאות](https://www.youtube.com/watch?v=TuPfwOEUjp4)
 - [Brute force iOS pin codes with the flipper zero](https://www.youtube.com/watch?v=h931fIoUd7o)
 - [Pi camera NOIR on a web server streaming video &lpar;with pi zero w&rpar;](https://www.youtube.com/watch?v=hkoxSHssY_g)
 - [Pi Camera NOIR web server teaser trailer #Shorts](https://www.youtube.com/watch?v=aRDAq3Hvq74)
-- [Streaming video from a Raspberry Pi Zero and Pi Cam 2.1 NOIR to a PC](https://www.youtube.com/watch?v=ADxsD75cpsw)
 <!-- BLOG-POST-LIST:END -->
 

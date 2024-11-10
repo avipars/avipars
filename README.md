@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Flipper Zero Competitor #Shorts](https://www.youtube.com/watch?v=uRn9d1LTXqQ)
 - [disassembling mini a9 Chinese wifi camera &lpar;part 2&rpar;](https://www.youtube.com/watch?v=Z2oe9wU58So)
 - [Disassembling A9 Mini wi-fi camera &lpar;part 1&rpar; #tech](https://www.youtube.com/watch?v=YluBPcX9sRA)
 - [Flipper zero can talk #Shorts](https://www.youtube.com/watch?v=imk54ggSsxo)
 - [dismantling a $4 aliexpress bluetooth/2.4ghz mouse](https://www.youtube.com/watch?v=gpwbb1OL65g)
 - [Meuhedet Online Pharmacy has free delivery to your door in Israel, so cool #israel](https://www.youtube.com/watch?v=A7IBqvBdf8Q)
-- [הזמנות תרופות עד לבית עם משלוח חינם #meuhedet #health #בריאות](https://www.youtube.com/watch?v=TuPfwOEUjp4)
 <!-- BLOG-POST-LIST:END -->
 

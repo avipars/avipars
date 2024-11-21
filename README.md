@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Secrets of Sentential Logic](https://www.youtube.com/watch?v=3SDeo3A36Pw)
 - [Introduction to Graph Theory](https://www.youtube.com/watch?v=3uGcEYqfU9I)
 - [Flipper Zero Competitor #Shorts](https://www.youtube.com/watch?v=uRn9d1LTXqQ)
 - [disassembling mini a9 Chinese wifi camera &lpar;part 2&rpar;](https://www.youtube.com/watch?v=Z2oe9wU58So)
 - [Disassembling A9 Mini wi-fi camera &lpar;part 1&rpar; #tech](https://www.youtube.com/watch?v=YluBPcX9sRA)
 - [Flipper zero can talk #Shorts](https://www.youtube.com/watch?v=imk54ggSsxo)
-- [dismantling a $4 aliexpress bluetooth/2.4ghz mouse](https://www.youtube.com/watch?v=gpwbb1OL65g)
 <!-- BLOG-POST-LIST:END -->
 

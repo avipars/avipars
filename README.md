@@ -70,11 +70,11 @@ Here are some ideas to get you started:
 
 # Updates and posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon haul - November 27th, 2024](https://www.youtube.com/watch?v=WRFpWnpLsfk)
 - [Combinatorics: Counting and Permutations](https://www.youtube.com/watch?v=GIHAPpsH3CE)
 - [Unlocking the Secrets of Sentential Logic](https://www.youtube.com/watch?v=3SDeo3A36Pw)
 - [Introduction to Graph Theory](https://www.youtube.com/watch?v=3uGcEYqfU9I)
 - [Flipper Zero Competitor #Shorts](https://www.youtube.com/watch?v=uRn9d1LTXqQ)
 - [disassembling mini a9 Chinese wifi camera &lpar;part 2&rpar;](https://www.youtube.com/watch?v=Z2oe9wU58So)
-- [Disassembling A9 Mini wi-fi camera &lpar;part 1&rpar; #tech](https://www.youtube.com/watch?v=YluBPcX9sRA)
 <!-- BLOG-POST-LIST:END -->
 

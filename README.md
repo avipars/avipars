@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 
 <br />
 
-[![Avi's github stats](https://streak-stats.demolab.com?user=avipars&theme=dark&hide_border=true&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 
 
 *************
